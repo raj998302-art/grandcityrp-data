@@ -1,7 +1,7 @@
 {
  "client_config": {
-  "version_code": 2,
-  "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.apk",
+  "version_code": 3,
+  "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.1.apk",
   "url_cache_files": "https://raw.githubusercontent.com/raj998302-art/grandcityrp-data/main/config/cache_files.json"
  }
 }
