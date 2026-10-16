@@ -10,2275 +10,2275 @@
    "name": "SAMP.ide",
    "size": 89475,
    "path": "SAMP/SAMP.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~SAMP.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.SAMP.ide"
   },
   {
    "name": "TIMECYC.DAT",
    "size": 40037,
    "path": "SAMP/TIMECYC.DAT",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~TIMECYC.DAT"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.TIMECYC.DAT"
   },
   {
    "name": "american.gxt",
    "size": 1339424,
    "path": "SAMP/Text/american.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~Text~american.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.Text.american.gxt"
   },
   {
    "name": "french.gxt",
    "size": 1459044,
    "path": "SAMP/Text/french.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~Text~french.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.Text.french.gxt"
   },
   {
    "name": "german.gxt",
    "size": 1497182,
    "path": "SAMP/Text/german.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~Text~german.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.Text.german.gxt"
   },
   {
    "name": "italian.gxt",
    "size": 1371048,
    "path": "SAMP/Text/italian.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~Text~italian.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.Text.italian.gxt"
   },
   {
    "name": "japanese.gxt",
    "size": 643202,
    "path": "SAMP/Text/japanese.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~Text~japanese.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.Text.japanese.gxt"
   },
   {
    "name": "russian.gxt",
    "size": 1421038,
    "path": "SAMP/Text/russian.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~Text~russian.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.Text.russian.gxt"
   },
   {
    "name": "spanish.gxt",
    "size": 1386744,
    "path": "SAMP/Text/spanish.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~Text~spanish.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.Text.spanish.gxt"
   },
   {
    "name": "audio_settings.json",
    "size": 0,
    "path": "SAMP/audio_settings.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~audio_settings.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.audio_settings.json"
   },
   {
    "name": "control_settings.json",
    "size": 0,
    "path": "SAMP/control_settings.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~control_settings.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.control_settings.json"
   },
   {
    "name": "favorites.json",
    "size": 0,
    "path": "SAMP/favorites.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~favorites.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.favorites.json"
   },
   {
    "name": "arial.ttf",
    "size": 367112,
    "path": "SAMP/fonts/arial.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~arial.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.arial.ttf"
   },
   {
    "name": "arial.ttf1",
    "size": 367112,
    "path": "SAMP/fonts/arial.ttf1",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~arial.ttf1"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.arial.ttf1"
   },
   {
    "name": "arial.ttf2",
    "size": 367112,
    "path": "SAMP/fonts/arial.ttf2",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~arial.ttf2"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.arial.ttf2"
   },
   {
    "name": "arial_bold.ttf",
    "size": 77700,
    "path": "SAMP/fonts/arial_bold.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~arial_bold.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.arial_bold.ttf"
   },
   {
    "name": "din-pro-black.ttf",
    "size": 138840,
    "path": "SAMP/fonts/din-pro-black.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~din-pro-black.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.din-pro-black.ttf"
   },
   {
    "name": "din-pro-bold.ttf",
    "size": 138336,
    "path": "SAMP/fonts/din-pro-bold.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~din-pro-bold.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.din-pro-bold.ttf"
   },
   {
    "name": "din-pro.ttf",
    "size": 138872,
    "path": "SAMP/fonts/din-pro.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~din-pro.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.din-pro.ttf"
   },
   {
    "name": "georgia.ttf",
    "size": 219712,
    "path": "SAMP/fonts/georgia.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~georgia.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.georgia.ttf"
   },
   {
    "name": "gtaweap3.ttf",
    "size": 104004,
    "path": "SAMP/fonts/gtaweap3.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~gtaweap3.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.gtaweap3.ttf"
   },
   {
    "name": "impact.ttf",
    "size": 206784,
    "path": "SAMP/fonts/impact.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~impact.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.impact.ttf"
   },
   {
    "name": "palatino_linotype.ttf",
    "size": 489884,
    "path": "SAMP/fonts/palatino_linotype.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~palatino_linotype.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.palatino_linotype.ttf"
   },
   {
    "name": "quartz_ms.ttf",
    "size": 51032,
    "path": "SAMP/fonts/quartz_ms.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~quartz_ms.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.quartz_ms.ttf"
   },
   {
    "name": "sampaux3.ttf",
    "size": 7376,
    "path": "SAMP/fonts/sampaux3.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~sampaux3.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.sampaux3.ttf"
   },
   {
    "name": "segoe_print.ttf",
    "size": 172448,
    "path": "SAMP/fonts/segoe_print.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~segoe_print.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.segoe_print.ttf"
   },
   {
    "name": "segoe_script.ttf",
    "size": 620204,
    "path": "SAMP/fonts/segoe_script.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~segoe_script.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.segoe_script.ttf"
   },
   {
    "name": "tahoma.ttf",
    "size": 939280,
    "path": "SAMP/fonts/tahoma.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~tahoma.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.tahoma.ttf"
   },
   {
    "name": "thai.ttf",
    "size": 47412,
    "path": "SAMP/fonts/thai.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~thai.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.thai.ttf"
   },
   {
    "name": "thai.ttf1",
    "size": 47480,
    "path": "SAMP/fonts/thai.ttf1",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~thai.ttf1"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.thai.ttf1"
   },
   {
    "name": "thai.ttf2",
    "size": 47412,
    "path": "SAMP/fonts/thai.ttf2",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~thai.ttf2"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.thai.ttf2"
   },
   {
    "name": "visby-round-cf-extra-bold.ttf",
    "size": 77700,
    "path": "SAMP/fonts/visby-round-cf-extra-bold.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~visby-round-cf-extra-bold.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.visby-round-cf-extra-bold.ttf"
   },
   {
    "name": "webdings.ttf",
    "size": 120560,
    "path": "SAMP/fonts/webdings.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~webdings.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.webdings.ttf"
   },
   {
    "name": "wingding.ttf",
    "size": 82180,
    "path": "SAMP/fonts/wingding.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~fonts~wingding.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.fonts.wingding.ttf"
   },
   {
    "name": "game_settings.json",
    "size": 0,
    "path": "SAMP/game_settings.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~game_settings.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.game_settings.json"
   },
   {
    "name": "graphic_settings.json",
    "size": 0,
    "path": "SAMP/graphic_settings.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~graphic_settings.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.graphic_settings.json"
   },
   {
    "name": "gta.dat",
    "size": 1395,
    "path": "SAMP/gta.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~gta.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.gta.dat"
   },
   {
    "name": "handling.cfg",
    "size": 49090,
    "path": "SAMP/handling.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~handling.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.handling.cfg"
   },
   {
    "name": "main.scm",
    "size": 18353,
    "path": "SAMP/main.scm",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~main.scm"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.main.scm"
   },
   {
    "name": "main.txt",
    "size": 2442,
    "path": "SAMP/main.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~main.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.main.txt"
   },
   {
    "name": "on_foot_settings.json",
    "size": 0,
    "path": "SAMP/on_foot_settings.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~on_foot_settings.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.on_foot_settings.json"
   },
   {
    "name": "on_vehicle_settings.json",
    "size": 0,
    "path": "SAMP/on_vehicle_settings.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~on_vehicle_settings.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.on_vehicle_settings.json"
   },
   {
    "name": "outfit.dat",
    "size": 5113,
    "path": "SAMP/outfit.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~outfit.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.outfit.dat"
   },
   {
    "name": "peds.ide",
    "size": 36369,
    "path": "SAMP/peds.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~peds.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.peds.ide"
   },
   {
    "name": "personalization_settings.json",
    "size": 0,
    "path": "SAMP/personalization_settings.json",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~personalization_settings.json"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.personalization_settings.json"
   },
   {
    "name": "ru_font.ttf",
    "size": 233076,
    "path": "SAMP/plates/ru_font.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~plates~ru_font.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.plates.ru_font.ttf"
   },
   {
    "name": "ua_font.ttf",
    "size": 233176,
    "path": "SAMP/plates/ua_font.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~plates~ua_font.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.plates.ua_font.ttf"
   },
   {
    "name": "radardisc.png",
    "size": 18098,
    "path": "SAMP/radardisc.png",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~radardisc.png"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.radardisc.png"
   },
   {
    "name": "svconfig.ini",
    "size": 138,
    "path": "SAMP/sampvoice/svconfig.ini",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~sampvoice~svconfig.ini"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.sampvoice.svconfig.ini"
   },
   {
    "name": "script.img",
    "size": 4096,
    "path": "SAMP/script.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~script.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.script.img"
   },
   {
    "name": "settings.ini",
    "size": 0,
    "path": "SAMP/settings.ini",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~settings.ini"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.settings.ini"
   },
   {
    "name": "timecyc.aaa",
    "size": 38417,
    "path": "SAMP/timecyc.aaa",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~timecyc.aaa"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.timecyc.aaa"
   },
   {
    "name": "tracks2.dat",
    "size": 1,
    "path": "SAMP/tracks2.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~tracks2.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.tracks2.dat"
   },
   {
    "name": "tracks4.dat",
    "size": 1,
    "path": "SAMP/tracks4.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~tracks4.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.tracks4.dat"
   },
   {
    "name": "vehicleAudioSettings.cfg",
    "size": 24777,
    "path": "SAMP/vehicleAudioSettings.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~vehicleAudioSettings.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.vehicleAudioSettings.cfg"
   },
   {
    "name": "vehicles.ide",
    "size": 21137,
    "path": "SAMP/vehicles.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~vehicles.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.vehicles.ide"
   },
   {
    "name": "water.dat",
    "size": 162,
    "path": "SAMP/water.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~water.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.water.dat"
   },
   {
    "name": "water12.dat",
    "size": 169,
    "path": "SAMP/water12.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~water12.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.water12.dat"
   },
   {
    "name": "weapon.dat",
    "size": 11602,
    "path": "SAMP/weapon.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP~weapon.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/SAMP.weapon.dat"
   },
   {
    "name": "american.gxt",
    "size": 1339424,
    "path": "Text/american.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text~american.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text.american.gxt"
   },
   {
    "name": "french.gxt",
    "size": 1459044,
    "path": "Text/french.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text~french.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text.french.gxt"
   },
   {
    "name": "german.gxt",
    "size": 1497182,
    "path": "Text/german.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text~german.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text.german.gxt"
   },
   {
    "name": "italian.gxt",
    "size": 1371048,
    "path": "Text/italian.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text~italian.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text.italian.gxt"
   },
   {
    "name": "japanese.gxt",
    "size": 643202,
    "path": "Text/japanese.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text~japanese.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text.japanese.gxt"
   },
   {
    "name": "russian.gxt",
    "size": 1421038,
    "path": "Text/russian.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text~russian.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text.russian.gxt"
   },
   {
    "name": "spanish.gxt",
    "size": 1386744,
    "path": "Text/spanish.gxt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text~spanish.gxt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Text.spanish.gxt"
   },
   {
    "name": "JapaneseFont.met",
    "size": 45171,
    "path": "Textures/fonts/JapaneseFont.met",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Textures~fonts~JapaneseFont.met"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Textures.fonts.JapaneseFont.met"
   },
   {
    "name": "RussianFont.met",
    "size": 4279,
    "path": "Textures/fonts/RussianFont.met",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Textures~fonts~RussianFont.met"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Textures.fonts.RussianFont.met"
   },
   {
    "name": "RussianFont.png",
    "size": 38743,
    "path": "Textures/fonts/RussianFont.png",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Textures~fonts~RussianFont.png"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/Textures.fonts.RussianFont.png"
   },
   {
    "name": "anim.img",
    "size": 10942464,
    "path": "anim/anim.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/anim~anim.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/anim.anim.img"
   },
   {
    "name": "cuts.img",
    "size": 16029696,
    "path": "anim/cuts.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/anim~cuts.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/anim.cuts.img"
   },
   {
    "name": "ped.ifp",
    "size": 1433248,
    "path": "anim/ped.ifp",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/anim~ped.ifp"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/anim.ped.ifp"
   },
   {
    "name": "AudioEventHistory.txt",
    "size": 114056,
    "path": "audio/CONFIG/AudioEventHistory.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~AudioEventHistory.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.AudioEventHistory.txt"
   },
   {
    "name": "BankLkup.dat",
    "size": 8520,
    "path": "audio/CONFIG/BankLkup.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~BankLkup.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.BankLkup.dat"
   },
   {
    "name": "BankSlot.dat",
    "size": 216902,
    "path": "audio/CONFIG/BankSlot.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~BankSlot.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.BankSlot.dat"
   },
   {
    "name": "EventVol.dat",
    "size": 45402,
    "path": "audio/CONFIG/EventVol.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~EventVol.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.EventVol.dat"
   },
   {
    "name": "PakFiles.dat",
    "size": 468,
    "path": "audio/CONFIG/PakFiles.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~PakFiles.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.PakFiles.dat"
   },
   {
    "name": "SOUNDINF.DAT",
    "size": 746760,
    "path": "audio/CONFIG/SOUNDINF.DAT",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~SOUNDINF.DAT"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.SOUNDINF.DAT"
   },
   {
    "name": "StrmPaks.dat",
    "size": 272,
    "path": "audio/CONFIG/StrmPaks.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~StrmPaks.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.StrmPaks.dat"
   },
   {
    "name": "TRKHEAD.DAT",
    "size": 15506696,
    "path": "audio/CONFIG/TRKHEAD.DAT",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~TRKHEAD.DAT"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.TRKHEAD.DAT"
   },
   {
    "name": "TrakLkup.dat",
    "size": 23064,
    "path": "audio/CONFIG/TrakLkup.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~CONFIG~TrakLkup.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.CONFIG.TrakLkup.dat"
   },
   {
    "name": "FEET.osw",
    "size": 138118,
    "path": "audio/SFX/FEET.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~SFX~FEET.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.SFX.FEET.osw"
   },
   {
    "name": "FEET.osw.idx",
    "size": 1220,
    "path": "audio/SFX/FEET.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~SFX~FEET.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.SFX.FEET.osw.idx"
   },
   {
    "name": "GENRL.osw",
    "size": 9362373,
    "path": "audio/SFX/GENRL.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~SFX~GENRL.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.SFX.GENRL.osw"
   },
   {
    "name": "GENRL.osw.idx",
    "size": 20868,
    "path": "audio/SFX/GENRL.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~SFX~GENRL.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.SFX.GENRL.osw.idx"
   },
   {
    "name": "PAIN_A.osw",
    "size": 3247335,
    "path": "audio/SFX/PAIN_A.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~SFX~PAIN_A.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.SFX.PAIN_A.osw"
   },
   {
    "name": "PAIN_A.osw.idx",
    "size": 12836,
    "path": "audio/SFX/PAIN_A.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~SFX~PAIN_A.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.SFX.PAIN_A.osw.idx"
   },
   {
    "name": "AA.osw",
    "size": 15462,
    "path": "audio/STREAMS/AA.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~AA.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.AA.osw"
   },
   {
    "name": "AA.osw.idx",
    "size": 1522,
    "path": "audio/STREAMS/AA.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~AA.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.AA.osw.idx"
   },
   {
    "name": "ADVERTS.osw",
    "size": 3516982,
    "path": "audio/STREAMS/ADVERTS.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~ADVERTS.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.ADVERTS.osw"
   },
   {
    "name": "ADVERTS.osw.idx",
    "size": 1591,
    "path": "audio/STREAMS/ADVERTS.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~ADVERTS.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.ADVERTS.osw.idx"
   },
   {
    "name": "AMBIENCE.osw",
    "size": 22719112,
    "path": "audio/STREAMS/AMBIENCE.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~AMBIENCE.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.AMBIENCE.osw"
   },
   {
    "name": "AMBIENCE.osw.idx",
    "size": 924,
    "path": "audio/STREAMS/AMBIENCE.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~AMBIENCE.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.AMBIENCE.osw.idx"
   },
   {
    "name": "BEATS.osw",
    "size": 9415375,
    "path": "audio/STREAMS/BEATS.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~BEATS.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.BEATS.osw"
   },
   {
    "name": "BEATS.osw.idx",
    "size": 234,
    "path": "audio/STREAMS/BEATS.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~BEATS.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.BEATS.osw.idx"
   },
   {
    "name": "CH.osw",
    "size": 15462,
    "path": "audio/STREAMS/CH.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CH.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CH.osw"
   },
   {
    "name": "CH.osw.idx",
    "size": 2994,
    "path": "audio/STREAMS/CH.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CH.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CH.osw.idx"
   },
   {
    "name": "CO.osw",
    "size": 15462,
    "path": "audio/STREAMS/CO.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CO.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CO.osw"
   },
   {
    "name": "CO.osw.idx",
    "size": 3569,
    "path": "audio/STREAMS/CO.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CO.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CO.osw.idx"
   },
   {
    "name": "CR.osw",
    "size": 15462,
    "path": "audio/STREAMS/CR.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CR.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CR.osw"
   },
   {
    "name": "CR.osw.idx",
    "size": 3592,
    "path": "audio/STREAMS/CR.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CR.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CR.osw.idx"
   },
   {
    "name": "CUTSCENE.osw",
    "size": 301175,
    "path": "audio/STREAMS/CUTSCENE.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CUTSCENE.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CUTSCENE.osw"
   },
   {
    "name": "CUTSCENE.osw.idx",
    "size": 3247,
    "path": "audio/STREAMS/CUTSCENE.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~CUTSCENE.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.CUTSCENE.osw.idx"
   },
   {
    "name": "DS.osw",
    "size": 15462,
    "path": "audio/STREAMS/DS.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~DS.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.DS.osw"
   },
   {
    "name": "DS.osw.idx",
    "size": 4121,
    "path": "audio/STREAMS/DS.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~DS.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.DS.osw.idx"
   },
   {
    "name": "HC.osw",
    "size": 15462,
    "path": "audio/STREAMS/HC.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~HC.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.HC.osw"
   },
   {
    "name": "HC.osw.idx",
    "size": 2649,
    "path": "audio/STREAMS/HC.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~HC.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.HC.osw.idx"
   },
   {
    "name": "MH.osw",
    "size": 15462,
    "path": "audio/STREAMS/MH.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~MH.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.MH.osw"
   },
   {
    "name": "MH.osw.idx",
    "size": 3500,
    "path": "audio/STREAMS/MH.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~MH.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.MH.osw.idx"
   },
   {
    "name": "MR.osw",
    "size": 15462,
    "path": "audio/STREAMS/MR.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~MR.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.MR.osw"
   },
   {
    "name": "MR.osw.idx",
    "size": 3385,
    "path": "audio/STREAMS/MR.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~MR.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.MR.osw.idx"
   },
   {
    "name": "NJ.osw",
    "size": 15462,
    "path": "audio/STREAMS/NJ.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~NJ.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.NJ.osw"
   },
   {
    "name": "NJ.osw.idx",
    "size": 2994,
    "path": "audio/STREAMS/NJ.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~NJ.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.NJ.osw.idx"
   },
   {
    "name": "RE.osw",
    "size": 15462,
    "path": "audio/STREAMS/RE.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~RE.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.RE.osw"
   },
   {
    "name": "RE.osw.idx",
    "size": 3707,
    "path": "audio/STREAMS/RE.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~RE.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.RE.osw.idx"
   },
   {
    "name": "RG.osw",
    "size": 15462,
    "path": "audio/STREAMS/RG.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~RG.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.RG.osw"
   },
   {
    "name": "RG.osw.idx",
    "size": 3914,
    "path": "audio/STREAMS/RG.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~RG.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.RG.osw.idx"
   },
   {
    "name": "TK.osw",
    "size": 15462,
    "path": "audio/STREAMS/TK.osw",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~TK.osw"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.TK.osw"
   },
   {
    "name": "TK.osw.idx",
    "size": 2327,
    "path": "audio/STREAMS/TK.osw.idx",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~STREAMS~TK.osw.idx"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.STREAMS.TK.osw.idx"
   },
   {
    "name": "turnlight_tick_1.mp3",
    "size": 4914,
    "path": "audio/turnlight_tick_1.mp3",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~turnlight_tick_1.mp3"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.turnlight_tick_1.mp3"
   },
   {
    "name": "turnlight_tick_2.mp3",
    "size": 5541,
    "path": "audio/turnlight_tick_2.mp3",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio~turnlight_tick_2.mp3"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/audio.turnlight_tick_2.mp3"
   },
   {
    "name": "360Default1280x720.cfg",
    "size": 10898,
    "path": "data/360Default1280x720.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~360Default1280x720.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.360Default1280x720.cfg"
   },
   {
    "name": "360Default960x720.cfg",
    "size": 10888,
    "path": "data/360Default960x720.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~360Default960x720.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.360Default960x720.cfg"
   },
   {
    "name": "Cop.ped",
    "size": 4908,
    "path": "data/Decision/Allowed/Cop.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~Cop.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.Cop.ped"
   },
   {
    "name": "Fireman.ped",
    "size": 4435,
    "path": "data/Decision/Allowed/Fireman.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~Fireman.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.Fireman.ped"
   },
   {
    "name": "GangMbr.ped",
    "size": 6194,
    "path": "data/Decision/Allowed/GangMbr.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~GangMbr.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.GangMbr.ped"
   },
   {
    "name": "Indoors.ped",
    "size": 2809,
    "path": "data/Decision/Allowed/Indoors.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~Indoors.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.Indoors.ped"
   },
   {
    "name": "MISSION.grp",
    "size": 2758,
    "path": "data/Decision/Allowed/MISSION.grp",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~MISSION.grp"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.MISSION.grp"
   },
   {
    "name": "RANDOM.grp",
    "size": 4623,
    "path": "data/Decision/Allowed/RANDOM.grp",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~RANDOM.grp"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.RANDOM.grp"
   },
   {
    "name": "RANDOM.ped",
    "size": 4142,
    "path": "data/Decision/Allowed/RANDOM.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~RANDOM.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.RANDOM.ped"
   },
   {
    "name": "RANDOM2.grp",
    "size": 4623,
    "path": "data/Decision/Allowed/RANDOM2.grp",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~RANDOM2.grp"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.RANDOM2.grp"
   },
   {
    "name": "R_Norm.ped",
    "size": 6450,
    "path": "data/Decision/Allowed/R_Norm.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~R_Norm.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.R_Norm.ped"
   },
   {
    "name": "R_Tough.ped",
    "size": 6378,
    "path": "data/Decision/Allowed/R_Tough.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~R_Tough.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.R_Tough.ped"
   },
   {
    "name": "R_Weak.ped",
    "size": 6289,
    "path": "data/Decision/Allowed/R_Weak.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~R_Weak.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.R_Weak.ped"
   },
   {
    "name": "m_empty.ped",
    "size": 982,
    "path": "data/Decision/Allowed/m_empty.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~m_empty.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.m_empty.ped"
   },
   {
    "name": "m_norm.ped",
    "size": 4142,
    "path": "data/Decision/Allowed/m_norm.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~m_norm.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.m_norm.ped"
   },
   {
    "name": "m_plyr.ped",
    "size": 2000,
    "path": "data/Decision/Allowed/m_plyr.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~m_plyr.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.m_plyr.ped"
   },
   {
    "name": "m_steal.ped",
    "size": 3663,
    "path": "data/Decision/Allowed/m_steal.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~m_steal.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.m_steal.ped"
   },
   {
    "name": "m_tough.ped",
    "size": 3980,
    "path": "data/Decision/Allowed/m_tough.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~m_tough.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.m_tough.ped"
   },
   {
    "name": "m_weak.ped",
    "size": 4062,
    "path": "data/Decision/Allowed/m_weak.ped",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~Allowed~m_weak.ped"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.Allowed.m_weak.ped"
   },
   {
    "name": "PedEvent.txt",
    "size": 1298,
    "path": "data/Decision/PedEvent.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~Decision~PedEvent.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.Decision.PedEvent.txt"
   },
   {
    "name": "ShopUVs.dat",
    "size": 30509,
    "path": "data/ShopUVs.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~ShopUVs.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.ShopUVs.dat"
   },
   {
    "name": "TouchDefaultPhone3x2.cfg",
    "size": 10912,
    "path": "data/TouchDefaultPhone3x2.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~TouchDefaultPhone3x2.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.TouchDefaultPhone3x2.cfg"
   },
   {
    "name": "TouchDefaultPhoneWidescreen.cfg",
    "size": 10924,
    "path": "data/TouchDefaultPhoneWidescreen.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~TouchDefaultPhoneWidescreen.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.TouchDefaultPhoneWidescreen.cfg"
   },
   {
    "name": "TouchDefaultTablet4x3.cfg",
    "size": 10926,
    "path": "data/TouchDefaultTablet4x3.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~TouchDefaultTablet4x3.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.TouchDefaultTablet4x3.cfg"
   },
   {
    "name": "TouchDefaultTabletWidescreen.cfg",
    "size": 10923,
    "path": "data/TouchDefaultTabletWidescreen.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~TouchDefaultTabletWidescreen.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.TouchDefaultTabletWidescreen.cfg"
   },
   {
    "name": "animgrp.dat",
    "size": 3096,
    "path": "data/animgrp.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~animgrp.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.animgrp.dat"
   },
   {
    "name": "ar_stats.dat",
    "size": 3593,
    "path": "data/ar_stats.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~ar_stats.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.ar_stats.dat"
   },
   {
    "name": "carcols.dat",
    "size": 15361,
    "path": "data/carcols.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~carcols.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.carcols.dat"
   },
   {
    "name": "cargrp.dat",
    "size": 3963,
    "path": "data/cargrp.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~cargrp.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.cargrp.dat"
   },
   {
    "name": "carmods.dat",
    "size": 9110,
    "path": "data/carmods.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~carmods.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.carmods.dat"
   },
   {
    "name": "clothes.dat",
    "size": 5317,
    "path": "data/clothes.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~clothes.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.clothes.dat"
   },
   {
    "name": "colorcycle-1.dat",
    "size": 14903,
    "path": "data/colorcycle-1.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~colorcycle-1.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.colorcycle-1.dat"
   },
   {
    "name": "colorcycle.dat",
    "size": 14627,
    "path": "data/colorcycle.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~colorcycle.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.colorcycle.dat"
   },
   {
    "name": "colorcycle1.dat",
    "size": 13612,
    "path": "data/colorcycle1.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~colorcycle1.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.colorcycle1.dat"
   },
   {
    "name": "ctimecy.dat",
    "size": 38670,
    "path": "data/ctimecy.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~ctimecy.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.ctimecy.dat"
   },
   {
    "name": "default.dat",
    "size": 577,
    "path": "data/default.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~default.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.default.dat"
   },
   {
    "name": "default.ide",
    "size": 4679,
    "path": "data/default.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~default.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.default.ide"
   },
   {
    "name": "fonts.dat",
    "size": 3576,
    "path": "data/fonts.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~fonts.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.fonts.dat"
   },
   {
    "name": "furnitur.dat",
    "size": 16480,
    "path": "data/furnitur.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~furnitur.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.furnitur.dat"
   },
   {
    "name": "gridref.dat",
    "size": 1498,
    "path": "data/gridref.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~gridref.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.gridref.dat"
   },
   {
    "name": "gta.dat",
    "size": 958,
    "path": "data/gta.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~gta.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.gta.dat"
   },
   {
    "name": "handling.cfg",
    "size": 43356,
    "path": "data/handling.cfg",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~handling.cfg"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.handling.cfg"
   },
   {
    "name": "info.zon",
    "size": 28139,
    "path": "data/info.zon",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~info.zon"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.info.zon"
   },
   {
    "name": "main.scm",
    "size": 2475,
    "path": "data/main.scm",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~main.scm"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.main.scm"
   },
   {
    "name": "map.zon",
    "size": 436,
    "path": "data/map.zon",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~map.zon"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.map.zon"
   },
   {
    "name": "Audiozon.ipl",
    "size": 10802,
    "path": "data/maps/Audiozon.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~Audiozon.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.Audiozon.ipl"
   },
   {
    "name": "CR1.IDE",
    "size": 13993,
    "path": "data/maps/CR1.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR1.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR1.IDE"
   },
   {
    "name": "CR1.IPL",
    "size": 26886,
    "path": "data/maps/CR1.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR1.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR1.IPL"
   },
   {
    "name": "CR10.IDE",
    "size": 453,
    "path": "data/maps/CR10.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR10.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR10.IDE"
   },
   {
    "name": "CR10.IPL",
    "size": 191795,
    "path": "data/maps/CR10.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR10.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR10.IPL"
   },
   {
    "name": "CR11.IPL",
    "size": 261682,
    "path": "data/maps/CR11.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR11.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR11.IPL"
   },
   {
    "name": "CR11.ide",
    "size": 114987,
    "path": "data/maps/CR11.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR11.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR11.ide"
   },
   {
    "name": "CR12.IPL",
    "size": 29634,
    "path": "data/maps/CR12.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR12.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR12.IPL"
   },
   {
    "name": "CR12.ide",
    "size": 14690,
    "path": "data/maps/CR12.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR12.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR12.ide"
   },
   {
    "name": "CR14.IDE",
    "size": 12926,
    "path": "data/maps/CR14.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR14.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR14.IDE"
   },
   {
    "name": "CR14.IPL",
    "size": 152568,
    "path": "data/maps/CR14.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR14.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR14.IPL"
   },
   {
    "name": "CR2.IPL",
    "size": 19149,
    "path": "data/maps/CR2.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR2.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR2.IPL"
   },
   {
    "name": "CR2.ide",
    "size": 12152,
    "path": "data/maps/CR2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR2.ide"
   },
   {
    "name": "CR3.IPL",
    "size": 14749,
    "path": "data/maps/CR3.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR3.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR3.IPL"
   },
   {
    "name": "CR3.ide",
    "size": 7704,
    "path": "data/maps/CR3.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR3.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR3.ide"
   },
   {
    "name": "CR4.IDE",
    "size": 13712,
    "path": "data/maps/CR4.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR4.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR4.IDE"
   },
   {
    "name": "CR4.IPL",
    "size": 19462,
    "path": "data/maps/CR4.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR4.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR4.IPL"
   },
   {
    "name": "CR5.IDE",
    "size": 10111,
    "path": "data/maps/CR5.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR5.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR5.IDE"
   },
   {
    "name": "CR5.IPL",
    "size": 14797,
    "path": "data/maps/CR5.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR5.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR5.IPL"
   },
   {
    "name": "CR6.IPL",
    "size": 35930,
    "path": "data/maps/CR6.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR6.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR6.IPL"
   },
   {
    "name": "CR6.ide",
    "size": 3065,
    "path": "data/maps/CR6.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR6.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR6.ide"
   },
   {
    "name": "CR7.IDE",
    "size": 2817,
    "path": "data/maps/CR7.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR7.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR7.IDE"
   },
   {
    "name": "CR7.IPL",
    "size": 3620,
    "path": "data/maps/CR7.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR7.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR7.IPL"
   },
   {
    "name": "CR8.IDE",
    "size": 55350,
    "path": "data/maps/CR8.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR8.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR8.IDE"
   },
   {
    "name": "CR8.IPL",
    "size": 258712,
    "path": "data/maps/CR8.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR8.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR8.IPL"
   },
   {
    "name": "CR9.IPL",
    "size": 284959,
    "path": "data/maps/CR9.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR9.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR9.IPL"
   },
   {
    "name": "CR9.ide",
    "size": 570,
    "path": "data/maps/CR9.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~CR9.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.CR9.ide"
   },
   {
    "name": "LAe.ide",
    "size": 12249,
    "path": "data/maps/LA/LAe.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAe.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAe.ide"
   },
   {
    "name": "LAe.ipl",
    "size": 27328,
    "path": "data/maps/LA/LAe.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAe.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAe.ipl"
   },
   {
    "name": "LAe2.ide",
    "size": 21907,
    "path": "data/maps/LA/LAe2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAe2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAe2.ide"
   },
   {
    "name": "LAe2.ipl",
    "size": 33651,
    "path": "data/maps/LA/LAe2.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAe2.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAe2.ipl"
   },
   {
    "name": "LAhills.ide",
    "size": 10601,
    "path": "data/maps/LA/LAhills.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAhills.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAhills.ide"
   },
   {
    "name": "LAhills.ipl",
    "size": 34506,
    "path": "data/maps/LA/LAhills.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAhills.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAhills.ipl"
   },
   {
    "name": "LAn.ide",
    "size": 11107,
    "path": "data/maps/LA/LAn.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAn.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAn.ide"
   },
   {
    "name": "LAn.ipl",
    "size": 14264,
    "path": "data/maps/LA/LAn.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAn.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAn.ipl"
   },
   {
    "name": "LAn2.ide",
    "size": 9565,
    "path": "data/maps/LA/LAn2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAn2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAn2.ide"
   },
   {
    "name": "LAn2.ipl",
    "size": 13185,
    "path": "data/maps/LA/LAn2.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAn2.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAn2.ipl"
   },
   {
    "name": "LAs.ide",
    "size": 12575,
    "path": "data/maps/LA/LAs.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAs.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAs.ide"
   },
   {
    "name": "LAs.ipl",
    "size": 22414,
    "path": "data/maps/LA/LAs.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAs.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAs.ipl"
   },
   {
    "name": "LAs2.ide",
    "size": 12364,
    "path": "data/maps/LA/LAs2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAs2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAs2.ide"
   },
   {
    "name": "LAs2.ipl",
    "size": 38441,
    "path": "data/maps/LA/LAs2.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAs2.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAs2.ipl"
   },
   {
    "name": "LAw.ide",
    "size": 9412,
    "path": "data/maps/LA/LAw.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAw.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAw.ide"
   },
   {
    "name": "LAw.ipl",
    "size": 15105,
    "path": "data/maps/LA/LAw.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAw.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAw.ipl"
   },
   {
    "name": "LAw2.ide",
    "size": 11060,
    "path": "data/maps/LA/LAw2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAw2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAw2.ide"
   },
   {
    "name": "LAw2.ipl",
    "size": 18232,
    "path": "data/maps/LA/LAw2.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAw2.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAw2.ipl"
   },
   {
    "name": "LAxref.ide",
    "size": 10477,
    "path": "data/maps/LA/LAxref.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LAxref.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LAxref.ide"
   },
   {
    "name": "LaWn.ide",
    "size": 13092,
    "path": "data/maps/LA/LaWn.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LaWn.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LaWn.ide"
   },
   {
    "name": "LaWn.ipl",
    "size": 24330,
    "path": "data/maps/LA/LaWn.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~LA~LaWn.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.LA.LaWn.ipl"
   },
   {
    "name": "SAMP.ide",
    "size": 39262,
    "path": "data/maps/SAMP.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SAMP.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SAMP.ide"
   },
   {
    "name": "SFSe.ide",
    "size": 30227,
    "path": "data/maps/SF/SFSe.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFSe.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFSe.ide"
   },
   {
    "name": "SFSe.ipl",
    "size": 53359,
    "path": "data/maps/SF/SFSe.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFSe.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFSe.ipl"
   },
   {
    "name": "SFe.ide",
    "size": 16224,
    "path": "data/maps/SF/SFe.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFe.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFe.ide"
   },
   {
    "name": "SFe.ipl",
    "size": 26707,
    "path": "data/maps/SF/SFe.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFe.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFe.ipl"
   },
   {
    "name": "SFn.ide",
    "size": 11219,
    "path": "data/maps/SF/SFn.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFn.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFn.ide"
   },
   {
    "name": "SFn.ipl",
    "size": 26201,
    "path": "data/maps/SF/SFn.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFn.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFn.ipl"
   },
   {
    "name": "SFs.ide",
    "size": 18948,
    "path": "data/maps/SF/SFs.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFs.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFs.ide"
   },
   {
    "name": "SFs.ipl",
    "size": 37969,
    "path": "data/maps/SF/SFs.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFs.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFs.ipl"
   },
   {
    "name": "SFw.ide",
    "size": 16473,
    "path": "data/maps/SF/SFw.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFw.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFw.ide"
   },
   {
    "name": "SFw.ipl",
    "size": 29247,
    "path": "data/maps/SF/SFw.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFw.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFw.ipl"
   },
   {
    "name": "SFxref.ide",
    "size": 4631,
    "path": "data/maps/SF/SFxref.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~SF~SFxref.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.SF.SFxref.ide"
   },
   {
    "name": "avtach.txd",
    "size": 1452544,
    "path": "data/maps/avtach.txd",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~avtach.txd"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.avtach.txd"
   },
   {
    "name": "blocke.IDE",
    "size": 11165,
    "path": "data/maps/blocke.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~blocke.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.blocke.IDE"
   },
   {
    "name": "blocke.IPL",
    "size": 238704,
    "path": "data/maps/blocke.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~blocke.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.blocke.IPL"
   },
   {
    "name": "countn2.ide",
    "size": 35439,
    "path": "data/maps/country/countn2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countn2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countn2.ide"
   },
   {
    "name": "countn2.ipl",
    "size": 41665,
    "path": "data/maps/country/countn2.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countn2.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countn2.ipl"
   },
   {
    "name": "countryN.ide",
    "size": 11308,
    "path": "data/maps/country/countryN.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countryN.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countryN.ide"
   },
   {
    "name": "countryN.ipl",
    "size": 14407,
    "path": "data/maps/country/countryN.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countryN.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countryN.ipl"
   },
   {
    "name": "countryS.ide",
    "size": 18450,
    "path": "data/maps/country/countryS.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countryS.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countryS.ide"
   },
   {
    "name": "countryS.ipl",
    "size": 33835,
    "path": "data/maps/country/countryS.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countryS.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countryS.ipl"
   },
   {
    "name": "countryW.ide",
    "size": 19704,
    "path": "data/maps/country/countryW.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countryW.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countryW.ide"
   },
   {
    "name": "countrye.ide",
    "size": 34529,
    "path": "data/maps/country/countrye.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countrye.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countrye.ide"
   },
   {
    "name": "countrye.ipl",
    "size": 49301,
    "path": "data/maps/country/countrye.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countrye.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countrye.ipl"
   },
   {
    "name": "countryw.ipl",
    "size": 35057,
    "path": "data/maps/country/countryw.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~countryw.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.countryw.ipl"
   },
   {
    "name": "counxref.ide",
    "size": 8494,
    "path": "data/maps/country/counxref.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~country~counxref.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.country.counxref.ide"
   },
   {
    "name": "cull.ipl",
    "size": 104318,
    "path": "data/maps/cull.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~cull.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.cull.ipl"
   },
   {
    "name": "derevopidr.IPL",
    "size": 65952,
    "path": "data/maps/derevopidr.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~derevopidr.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.derevopidr.IPL"
   },
   {
    "name": "barriers.ide",
    "size": 1437,
    "path": "data/maps/generic/barriers.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~generic~barriers.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.generic.barriers.ide"
   },
   {
    "name": "dynamic.ide",
    "size": 4613,
    "path": "data/maps/generic/dynamic.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~generic~dynamic.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.generic.dynamic.ide"
   },
   {
    "name": "dynamic2.ide",
    "size": 10512,
    "path": "data/maps/generic/dynamic2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~generic~dynamic2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.generic.dynamic2.ide"
   },
   {
    "name": "multiobj.ide",
    "size": 5020,
    "path": "data/maps/generic/multiobj.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~generic~multiobj.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.generic.multiobj.ide"
   },
   {
    "name": "procobj.ide",
    "size": 4755,
    "path": "data/maps/generic/procobj.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~generic~procobj.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.generic.procobj.ide"
   },
   {
    "name": "vegepart.ide",
    "size": 8075,
    "path": "data/maps/generic/vegepart.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~generic~vegepart.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.generic.vegepart.ide"
   },
   {
    "name": "gorod10.IPL",
    "size": 223468,
    "path": "data/maps/gorod10.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~gorod10.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.gorod10.IPL"
   },
   {
    "name": "gen_int1.ide",
    "size": 2747,
    "path": "data/maps/interior/gen_int1.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int1.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int1.ide"
   },
   {
    "name": "gen_int1.ipl",
    "size": 21074,
    "path": "data/maps/interior/gen_int1.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int1.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int1.ipl"
   },
   {
    "name": "gen_int2.ide",
    "size": 10941,
    "path": "data/maps/interior/gen_int2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int2.ide"
   },
   {
    "name": "gen_int2.ipl",
    "size": 1683,
    "path": "data/maps/interior/gen_int2.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int2.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int2.ipl"
   },
   {
    "name": "gen_int3.ide",
    "size": 3252,
    "path": "data/maps/interior/gen_int3.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int3.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int3.ide"
   },
   {
    "name": "gen_int3.ipl",
    "size": 2091,
    "path": "data/maps/interior/gen_int3.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int3.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int3.ipl"
   },
   {
    "name": "gen_int4.ide",
    "size": 2323,
    "path": "data/maps/interior/gen_int4.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int4.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int4.ide"
   },
   {
    "name": "gen_int4.ipl",
    "size": 1185,
    "path": "data/maps/interior/gen_int4.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int4.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int4.ipl"
   },
   {
    "name": "gen_int5.ide",
    "size": 4682,
    "path": "data/maps/interior/gen_int5.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int5.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int5.ide"
   },
   {
    "name": "gen_int5.ipl",
    "size": 2988,
    "path": "data/maps/interior/gen_int5.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_int5.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_int5.ipl"
   },
   {
    "name": "gen_intb.ide",
    "size": 5459,
    "path": "data/maps/interior/gen_intb.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_intb.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_intb.ide"
   },
   {
    "name": "gen_intb.ipl",
    "size": 1626,
    "path": "data/maps/interior/gen_intb.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~gen_intb.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.gen_intb.ipl"
   },
   {
    "name": "int_LA.ide",
    "size": 6004,
    "path": "data/maps/interior/int_LA.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_LA.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_LA.ide"
   },
   {
    "name": "int_LA.ipl",
    "size": 1312,
    "path": "data/maps/interior/int_LA.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_LA.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_LA.ipl"
   },
   {
    "name": "int_SF.ide",
    "size": 1260,
    "path": "data/maps/interior/int_SF.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_SF.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_SF.ide"
   },
   {
    "name": "int_SF.ipl",
    "size": 1334,
    "path": "data/maps/interior/int_SF.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_SF.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_SF.ipl"
   },
   {
    "name": "int_cont.ide",
    "size": 385,
    "path": "data/maps/interior/int_cont.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_cont.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_cont.ide"
   },
   {
    "name": "int_cont.ipl",
    "size": 910,
    "path": "data/maps/interior/int_cont.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_cont.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_cont.ipl"
   },
   {
    "name": "int_veg.ide",
    "size": 4684,
    "path": "data/maps/interior/int_veg.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_veg.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_veg.ide"
   },
   {
    "name": "int_veg.ipl",
    "size": 5299,
    "path": "data/maps/interior/int_veg.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~int_veg.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.int_veg.ipl"
   },
   {
    "name": "propext.ide",
    "size": 2340,
    "path": "data/maps/interior/propext.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~propext.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.propext.ide"
   },
   {
    "name": "props.ide",
    "size": 26326,
    "path": "data/maps/interior/props.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~props.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.props.ide"
   },
   {
    "name": "props2.ide",
    "size": 21174,
    "path": "data/maps/interior/props2.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~props2.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.props2.ide"
   },
   {
    "name": "savehous.ide",
    "size": 1724,
    "path": "data/maps/interior/savehous.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~savehous.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.savehous.ide"
   },
   {
    "name": "savehous.ipl",
    "size": 2959,
    "path": "data/maps/interior/savehous.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~savehous.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.savehous.ipl"
   },
   {
    "name": "stadint.ide",
    "size": 2851,
    "path": "data/maps/interior/stadint.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~stadint.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.stadint.ide"
   },
   {
    "name": "stadint.ipl",
    "size": 6299,
    "path": "data/maps/interior/stadint.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~interior~stadint.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.interior.stadint.ipl"
   },
   {
    "name": "leveldes.ide",
    "size": 360,
    "path": "data/maps/leveldes/leveldes.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~leveldes~leveldes.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.leveldes.leveldes.ide"
   },
   {
    "name": "leveldes.ipl",
    "size": 165,
    "path": "data/maps/leveldes/leveldes.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~leveldes~leveldes.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.leveldes.leveldes.ipl"
   },
   {
    "name": "levelmap.ide",
    "size": 3194,
    "path": "data/maps/leveldes/levelmap.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~leveldes~levelmap.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.leveldes.levelmap.ide"
   },
   {
    "name": "levelmap.ipl",
    "size": 4675,
    "path": "data/maps/leveldes/levelmap.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~leveldes~levelmap.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.leveldes.levelmap.ipl"
   },
   {
    "name": "levelxre.ide",
    "size": 9897,
    "path": "data/maps/leveldes/levelxre.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~leveldes~levelxre.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.leveldes.levelxre.ide"
   },
   {
    "name": "seabed.ide",
    "size": 12039,
    "path": "data/maps/leveldes/seabed.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~leveldes~seabed.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.leveldes.seabed.ide"
   },
   {
    "name": "seabed.ipl",
    "size": 23342,
    "path": "data/maps/leveldes/seabed.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~leveldes~seabed.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.leveldes.seabed.ipl"
   },
   {
    "name": "occlu.ipl",
    "size": 1012,
    "path": "data/maps/occlu.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~occlu.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.occlu.ipl"
   },
   {
    "name": "occluLA.ipl",
    "size": 35956,
    "path": "data/maps/occluLA.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~occluLA.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.occluLA.ipl"
   },
   {
    "name": "occluint.ipl",
    "size": 2338,
    "path": "data/maps/occluint.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~occluint.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.occluint.ipl"
   },
   {
    "name": "occlusf.ipl",
    "size": 16114,
    "path": "data/maps/occlusf.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~occlusf.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.occlusf.ipl"
   },
   {
    "name": "occluveg.ipl",
    "size": 17944,
    "path": "data/maps/occluveg.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~occluveg.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.occluveg.ipl"
   },
   {
    "name": "paths.img",
    "size": 135168,
    "path": "data/maps/paths.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~paths.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.paths.img"
   },
   {
    "name": "paths.ipl",
    "size": 2658607,
    "path": "data/maps/paths.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~paths.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.paths.ipl"
   },
   {
    "name": "paths2.ipl",
    "size": 2292241,
    "path": "data/maps/paths2.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~paths2.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.paths2.ipl"
   },
   {
    "name": "paths3.ipl",
    "size": 2428066,
    "path": "data/maps/paths3.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~paths3.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.paths3.ipl"
   },
   {
    "name": "paths4.ipl",
    "size": 253014,
    "path": "data/maps/paths4.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~paths4.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.paths4.ipl"
   },
   {
    "name": "paths5.ipl",
    "size": 457678,
    "path": "data/maps/paths5.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~paths5.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.paths5.ipl"
   },
   {
    "name": "testbed.ide",
    "size": 54,
    "path": "data/maps/testbed.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~testbed.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.testbed.ide"
   },
   {
    "name": "testbed.ipl",
    "size": 73,
    "path": "data/maps/testbed.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~testbed.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.testbed.ipl"
   },
   {
    "name": "tunnels.ipl",
    "size": 3230,
    "path": "data/maps/tunnels.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~tunnels.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.tunnels.ipl"
   },
   {
    "name": "txd.ide",
    "size": 323,
    "path": "data/maps/txd.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~txd.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.txd.ide"
   },
   {
    "name": "url_chlyab.IDE",
    "size": 147,
    "path": "data/maps/url_chlyab.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_chlyab.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_chlyab.IDE"
   },
   {
    "name": "url_chlyab.IPL",
    "size": 11035,
    "path": "data/maps/url_chlyab.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_chlyab.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_chlyab.IPL"
   },
   {
    "name": "url_obl.IPL",
    "size": 27771,
    "path": "data/maps/url_obl.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_obl.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_obl.IPL"
   },
   {
    "name": "url_projectder.IPL",
    "size": 101557,
    "path": "data/maps/url_projectder.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_projectder.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_projectder.IPL"
   },
   {
    "name": "url_projectland.IDE",
    "size": 6688,
    "path": "data/maps/url_projectland.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_projectland.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_projectland.IDE"
   },
   {
    "name": "url_projectland.IPL",
    "size": 145368,
    "path": "data/maps/url_projectland.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_projectland.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_projectland.IPL"
   },
   {
    "name": "url_projectobj.IDE",
    "size": 3495,
    "path": "data/maps/url_projectobj.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_projectobj.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_projectobj.IDE"
   },
   {
    "name": "url_projectobj.IPL",
    "size": 136795,
    "path": "data/maps/url_projectobj.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_projectobj.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_projectobj.IPL"
   },
   {
    "name": "url_projectprops.IDE",
    "size": 2070,
    "path": "data/maps/url_projectprops.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_projectprops.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_projectprops.IDE"
   },
   {
    "name": "url_projectprops.IPL",
    "size": 36837,
    "path": "data/maps/url_projectprops.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~url_projectprops.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.url_projectprops.IPL"
   },
   {
    "name": "VegasN.ide",
    "size": 23715,
    "path": "data/maps/vegas/VegasN.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~VegasN.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.VegasN.ide"
   },
   {
    "name": "VegasS.ide",
    "size": 18656,
    "path": "data/maps/vegas/VegasS.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~VegasS.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.VegasS.ide"
   },
   {
    "name": "VegasW.ide",
    "size": 25456,
    "path": "data/maps/vegas/VegasW.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~VegasW.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.VegasW.ide"
   },
   {
    "name": "vegasE.ide",
    "size": 35542,
    "path": "data/maps/vegas/vegasE.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~vegasE.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.vegasE.ide"
   },
   {
    "name": "vegasE.ipl",
    "size": 61084,
    "path": "data/maps/vegas/vegasE.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~vegasE.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.vegasE.ipl"
   },
   {
    "name": "vegasN.ipl",
    "size": 36651,
    "path": "data/maps/vegas/vegasN.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~vegasN.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.vegasN.ipl"
   },
   {
    "name": "vegasS.ipl",
    "size": 30343,
    "path": "data/maps/vegas/vegasS.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~vegasS.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.vegasS.ipl"
   },
   {
    "name": "vegasW.ipl",
    "size": 49867,
    "path": "data/maps/vegas/vegasW.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~vegasW.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.vegasW.ipl"
   },
   {
    "name": "vegaxref.ide",
    "size": 5751,
    "path": "data/maps/vegas/vegaxref.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~vegaxref.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.vegaxref.ide"
   },
   {
    "name": "vegaxref.ipl",
    "size": 3661,
    "path": "data/maps/vegas/vegaxref.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~vegas~vegaxref.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.vegas.vegaxref.ipl"
   },
   {
    "name": "veh_mods.ide",
    "size": 7357,
    "path": "data/maps/veh_mods/veh_mods.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~veh_mods~veh_mods.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.veh_mods.veh_mods.ide"
   },
   {
    "name": "zima.IDE",
    "size": 842,
    "path": "data/maps/zima.IDE",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~zima.IDE"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.zima.IDE"
   },
   {
    "name": "zima.IPL",
    "size": 53981,
    "path": "data/maps/zima.IPL",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~maps~zima.IPL"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.maps.zima.IPL"
   },
   {
    "name": "melee.dat",
    "size": 6306,
    "path": "data/melee.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~melee.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.melee.dat"
   },
   {
    "name": "object.dat",
    "size": 126118,
    "path": "data/object.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~object.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.object.dat"
   },
   {
    "name": "outfit.dat",
    "size": 5113,
    "path": "data/outfit.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~outfit.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.outfit.dat"
   },
   {
    "name": "ROADBLOX.DAT",
    "size": 1304,
    "path": "data/paths/ROADBLOX.DAT",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~paths~ROADBLOX.DAT"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.paths.ROADBLOX.DAT"
   },
   {
    "name": "carrec.img",
    "size": 2357248,
    "path": "data/paths/carrec.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~paths~carrec.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.paths.carrec.img"
   },
   {
    "name": "tracks.dat",
    "size": 3370,
    "path": "data/paths/tracks.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~paths~tracks.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.paths.tracks.dat"
   },
   {
    "name": "tracks2.dat",
    "size": 1892,
    "path": "data/paths/tracks2.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~paths~tracks2.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.paths.tracks2.dat"
   },
   {
    "name": "tracks3.dat",
    "size": 8328,
    "path": "data/paths/tracks3.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~paths~tracks3.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.paths.tracks3.dat"
   },
   {
    "name": "tracks4.dat",
    "size": 18347,
    "path": "data/paths/tracks4.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~paths~tracks4.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.paths.tracks4.dat"
   },
   {
    "name": "trum.dat",
    "size": 4114,
    "path": "data/paths/trum.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~paths~trum.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.paths.trum.dat"
   },
   {
    "name": "ped.dat",
    "size": 1276,
    "path": "data/ped.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~ped.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.ped.dat"
   },
   {
    "name": "pedgrp.dat",
    "size": 5792,
    "path": "data/pedgrp.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~pedgrp.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.pedgrp.dat"
   },
   {
    "name": "peds.ide",
    "size": 33401,
    "path": "data/peds.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~peds.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.peds.ide"
   },
   {
    "name": "pedstats.dat",
    "size": 3604,
    "path": "data/pedstats.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~pedstats.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.pedstats.dat"
   },
   {
    "name": "plants.dat",
    "size": 9887,
    "path": "data/plants.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~plants.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.plants.dat"
   },
   {
    "name": "popcycle.dat",
    "size": 127108,
    "path": "data/popcycle.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~popcycle.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.popcycle.dat"
   },
   {
    "name": "procobj.dat",
    "size": 10019,
    "path": "data/procobj.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~procobj.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.procobj.dat"
   },
   {
    "name": "script.img",
    "size": 4096,
    "path": "data/script.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~script.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.script.img"
   },
   {
    "name": "mainV1.scm",
    "size": 3169778,
    "path": "data/script/mainV1.scm",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~script~mainV1.scm"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.script.mainV1.scm"
   },
   {
    "name": "mainv1.txt",
    "size": 3690,
    "path": "data/script/mainv1.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~script~mainv1.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.script.mainv1.txt"
   },
   {
    "name": "scriptv1.img",
    "size": 561152,
    "path": "data/script/scriptv1.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~script~scriptv1.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.script.scriptv1.img"
   },
   {
    "name": "shopping.dat",
    "size": 46875,
    "path": "data/shopping.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~shopping.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.shopping.dat"
   },
   {
    "name": "statdisp.dat",
    "size": 7292,
    "path": "data/statdisp.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~statdisp.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.statdisp.dat"
   },
   {
    "name": "surface.dat",
    "size": 576,
    "path": "data/surface.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~surface.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.surface.dat"
   },
   {
    "name": "surfaud.dat",
    "size": 6530,
    "path": "data/surfaud.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~surfaud.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.surfaud.dat"
   },
   {
    "name": "surfinfo.dat",
    "size": 28106,
    "path": "data/surfinfo.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~surfinfo.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.surfinfo.dat"
   },
   {
    "name": "timecyc.dat",
    "size": 40114,
    "path": "data/timecyc.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~timecyc.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.timecyc.dat"
   },
   {
    "name": "txdcut.ide",
    "size": 478,
    "path": "data/txdcut.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~txdcut.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.txdcut.ide"
   },
   {
    "name": "update.ini",
    "size": 47,
    "path": "data/update.ini",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~update.ini"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.update.ini"
   },
   {
    "name": "vehicles.ide",
    "size": 21097,
    "path": "data/vehicles.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~vehicles.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.vehicles.ide"
   },
   {
    "name": "water.dat",
    "size": 41070,
    "path": "data/water.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~water.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.water.dat"
   },
   {
    "name": "water1.dat",
    "size": 60063,
    "path": "data/water1.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~water1.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.water1.dat"
   },
   {
    "name": "water1s.dat",
    "size": 207,
    "path": "data/water1s.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~water1s.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.water1s.dat"
   },
   {
    "name": "water2.dat",
    "size": 207,
    "path": "data/water2.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~water2.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.water2.dat"
   },
   {
    "name": "weapon.dat",
    "size": 11602,
    "path": "data/weapon.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data~weapon.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/data.weapon.dat"
   },
   {
    "name": "Roboto-Bold.ttf",
    "size": 167336,
    "path": "fonts/Roboto-Bold.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~Roboto-Bold.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.Roboto-Bold.ttf"
   },
   {
    "name": "arial.ttf",
    "size": 367112,
    "path": "fonts/arial.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~arial.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.arial.ttf"
   },
   {
    "name": "arial.ttf1",
    "size": 367112,
    "path": "fonts/arial.ttf1",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~arial.ttf1"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.arial.ttf1"
   },
   {
    "name": "arial.ttf2",
    "size": 367112,
    "path": "fonts/arial.ttf2",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~arial.ttf2"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.arial.ttf2"
   },
   {
    "name": "arial_bold.ttf",
    "size": 352224,
    "path": "fonts/arial_bold.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~arial_bold.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.arial_bold.ttf"
   },
   {
    "name": "din-pro-black.ttf",
    "size": 138840,
    "path": "fonts/din-pro-black.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~din-pro-black.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.din-pro-black.ttf"
   },
   {
    "name": "din-pro-bold.ttf",
    "size": 138336,
    "path": "fonts/din-pro-bold.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~din-pro-bold.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.din-pro-bold.ttf"
   },
   {
    "name": "din-pro.ttf",
    "size": 138872,
    "path": "fonts/din-pro.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~din-pro.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.din-pro.ttf"
   },
   {
    "name": "georgia.ttf",
    "size": 219712,
    "path": "fonts/georgia.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~georgia.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.georgia.ttf"
   },
   {
    "name": "gtaweap3.ttf",
    "size": 104004,
    "path": "fonts/gtaweap3.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~gtaweap3.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.gtaweap3.ttf"
   },
   {
    "name": "impact.ttf",
    "size": 206784,
    "path": "fonts/impact.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~impact.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.impact.ttf"
   },
   {
    "name": "palatino_linotype.ttf",
    "size": 489884,
    "path": "fonts/palatino_linotype.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~palatino_linotype.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.palatino_linotype.ttf"
   },
   {
    "name": "quartz_ms.ttf",
    "size": 51032,
    "path": "fonts/quartz_ms.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~quartz_ms.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.quartz_ms.ttf"
   },
   {
    "name": "sampaux3.ttf",
    "size": 7376,
    "path": "fonts/sampaux3.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~sampaux3.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.sampaux3.ttf"
   },
   {
    "name": "segoe_print.ttf",
    "size": 172448,
    "path": "fonts/segoe_print.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~segoe_print.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.segoe_print.ttf"
   },
   {
    "name": "segoe_script.ttf",
    "size": 620204,
    "path": "fonts/segoe_script.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~segoe_script.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.segoe_script.ttf"
   },
   {
    "name": "tahoma.ttf",
    "size": 939280,
    "path": "fonts/tahoma.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~tahoma.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.tahoma.ttf"
   },
   {
    "name": "thai.ttf",
    "size": 47412,
    "path": "fonts/thai.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~thai.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.thai.ttf"
   },
   {
    "name": "thai.ttf1",
    "size": 47480,
    "path": "fonts/thai.ttf1",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~thai.ttf1"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.thai.ttf1"
   },
   {
    "name": "thai.ttf2",
    "size": 47412,
    "path": "fonts/thai.ttf2",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~thai.ttf2"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.thai.ttf2"
   },
   {
    "name": "visby-round-cf-extra-bold.ttf",
    "size": 77700,
    "path": "fonts/visby-round-cf-extra-bold.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~visby-round-cf-extra-bold.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.visby-round-cf-extra-bold.ttf"
   },
   {
    "name": "webdings.ttf",
    "size": 120560,
    "path": "fonts/webdings.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~webdings.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.webdings.ttf"
   },
   {
    "name": "wingding.ttf",
    "size": 82180,
    "path": "fonts/wingding.ttf",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts~wingding.ttf"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/fonts.wingding.ttf"
   },
   {
    "name": "gta_sa.set",
@@ -2296,25 +2296,25 @@
    "name": "peds.col",
    "size": 21477,
    "path": "models/coll/peds.col",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models~coll~peds.col"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models.coll.peds.col"
   },
   {
    "name": "vehicles.col",
    "size": 1096,
    "path": "models/coll/vehicles.col",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models~coll~vehicles.col"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models.coll.vehicles.col"
   },
   {
    "name": "weapons.col",
    "size": 560,
    "path": "models/coll/weapons.col",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models~coll~weapons.col"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models.coll.weapons.col"
   },
   {
    "name": "effects.fxp",
    "size": 616708,
    "path": "models/effects.fxp",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models~effects.fxp"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/models.effects.fxp"
   },
   {
    "name": "settings.ini",
@@ -2332,361 +2332,361 @@
    "name": "SAMP.ide",
    "size": 89400,
    "path": "texdb/SAMP.ide",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~SAMP.ide"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.SAMP.ide"
   },
   {
    "name": "SAMP.ipl",
    "size": 2291,
    "path": "texdb/SAMP.ipl",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~SAMP.ipl"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.SAMP.ipl"
   },
   {
    "name": "SAMPCOL.img",
    "size": 3309568,
    "path": "texdb/SAMPCOL.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~SAMPCOL.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.SAMPCOL.img"
   },
   {
    "name": "cutscene.dxt.dat",
    "size": 5731070,
    "path": "texdb/cutscene/cutscene.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~cutscene~cutscene.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.cutscene.cutscene.dxt.dat"
   },
   {
    "name": "cutscene.dxt.tmb",
    "size": 19440,
    "path": "texdb/cutscene/cutscene.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~cutscene~cutscene.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.cutscene.cutscene.dxt.tmb"
   },
   {
    "name": "cutscene.dxt.toc",
    "size": 1628,
    "path": "texdb/cutscene/cutscene.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~cutscene~cutscene.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.cutscene.cutscene.dxt.toc"
   },
   {
    "name": "cutscene.txt",
    "size": 24630,
    "path": "texdb/cutscene/cutscene.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~cutscene~cutscene.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.cutscene.cutscene.txt"
   },
   {
    "name": "gta3.img",
    "size": 956520448,
    "path": "texdb/gta3.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta3.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta3.img"
   },
   {
    "name": "gta3.dxt.dat",
    "size": 825668048,
    "path": "texdb/gta3/gta3.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta3~gta3.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta3.gta3.dxt.dat"
   },
   {
    "name": "gta3.dxt.tmb",
    "size": 809192,
    "path": "texdb/gta3/gta3.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta3~gta3.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta3.gta3.dxt.tmb"
   },
   {
    "name": "gta3.dxt.toc",
    "size": 7224,
    "path": "texdb/gta3/gta3.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta3~gta3.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta3.gta3.dxt.toc"
   },
   {
    "name": "gta3.txt",
    "size": 662985,
    "path": "texdb/gta3/gta3.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta3~gta3.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta3.gta3.txt"
   },
   {
    "name": "gta_int.img",
    "size": 32184320,
    "path": "texdb/gta_int.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta_int.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta_int.img"
   },
   {
    "name": "gta_int.dxt.dat",
    "size": 407110594,
    "path": "texdb/gta_int/gta_int.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta_int~gta_int.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta_int.gta_int.dxt.dat"
   },
   {
    "name": "gta_int.dxt.tmb",
    "size": 3116608,
    "path": "texdb/gta_int/gta_int.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta_int~gta_int.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta_int.gta_int.dxt.tmb"
   },
   {
    "name": "gta_int.dxt.toc",
    "size": 10132,
    "path": "texdb/gta_int/gta_int.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta_int~gta_int.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta_int.gta_int.dxt.toc"
   },
   {
    "name": "gta_int.txt",
    "size": 642474,
    "path": "texdb/gta_int/gta_int.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gta_int~gta_int.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gta_int.gta_int.txt"
   },
   {
    "name": "gtasa.dxt.dat",
    "size": 495532,
    "path": "texdb/gtasa/gtasa.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gtasa~gtasa.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gtasa.gtasa.dxt.dat"
   },
   {
    "name": "gtasa.dxt.tmb",
    "size": 3264,
    "path": "texdb/gtasa/gtasa.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gtasa~gtasa.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gtasa.gtasa.dxt.tmb"
   },
   {
    "name": "gtasa.dxt.toc",
    "size": 52,
    "path": "texdb/gtasa/gtasa.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gtasa~gtasa.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gtasa.gtasa.dxt.toc"
   },
   {
    "name": "gtasa.txt",
    "size": 860,
    "path": "texdb/gtasa/gtasa.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~gtasa~gtasa.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.gtasa.gtasa.txt"
   },
   {
    "name": "menu.dxt.dat",
    "size": 6472908,
    "path": "texdb/menu/menu.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.dxt.dat"
   },
   {
    "name": "menu.dxt.tmb",
    "size": 992,
    "path": "texdb/menu/menu.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.dxt.tmb"
   },
   {
    "name": "menu.dxt.toc",
    "size": 176,
    "path": "texdb/menu/menu.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.dxt.toc"
   },
   {
    "name": "menu.etc.dat",
    "size": 6472908,
    "path": "texdb/menu/menu.etc.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.etc.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.etc.dat"
   },
   {
    "name": "menu.etc.tmb",
    "size": 992,
    "path": "texdb/menu/menu.etc.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.etc.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.etc.tmb"
   },
   {
    "name": "menu.etc.toc",
    "size": 176,
    "path": "texdb/menu/menu.etc.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.etc.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.etc.toc"
   },
   {
    "name": "menu.pvr.dat",
    "size": 6472908,
    "path": "texdb/menu/menu.pvr.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.pvr.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.pvr.dat"
   },
   {
    "name": "menu.pvr.tmb",
    "size": 992,
    "path": "texdb/menu/menu.pvr.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.pvr.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.pvr.tmb"
   },
   {
    "name": "menu.pvr.toc",
    "size": 176,
    "path": "texdb/menu/menu.pvr.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.pvr.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.pvr.toc"
   },
   {
    "name": "menu.txt",
    "size": 3147,
    "path": "texdb/menu/menu.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~menu~menu.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.menu.menu.txt"
   },
   {
    "name": "mobile.dxt.dat",
    "size": 10729344,
    "path": "texdb/mobile/mobile.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.dxt.dat"
   },
   {
    "name": "mobile.dxt.tmb",
    "size": 11308,
    "path": "texdb/mobile/mobile.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.dxt.tmb"
   },
   {
    "name": "mobile.dxt.toc",
    "size": 804,
    "path": "texdb/mobile/mobile.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.dxt.toc"
   },
   {
    "name": "mobile.txt",
    "size": 14370,
    "path": "texdb/mobile/mobile.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.txt"
   },
   {
    "name": "mobile.dxt.dat",
    "size": 10729344,
    "path": "texdb/mobile/mobile/mobile.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile~mobile.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.mobile.dxt.dat"
   },
   {
    "name": "mobile.dxt.tmb",
    "size": 11308,
    "path": "texdb/mobile/mobile/mobile.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile~mobile.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.mobile.dxt.tmb"
   },
   {
    "name": "mobile.dxt.toc",
    "size": 804,
    "path": "texdb/mobile/mobile/mobile.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile~mobile.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.mobile.dxt.toc"
   },
   {
    "name": "mobile.txt",
    "size": 14370,
    "path": "texdb/mobile/mobile/mobile.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~mobile~mobile~mobile.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.mobile.mobile.mobile.txt"
   },
   {
    "name": "player.img",
    "size": 16416768,
    "path": "texdb/player.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.img"
   },
   {
    "name": "player.dxt.dat",
    "size": 6569414,
    "path": "texdb/player/player.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player~player.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.player.dxt.dat"
   },
   {
    "name": "player.dxt.tmb",
    "size": 6940,
    "path": "texdb/player/player.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player~player.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.player.dxt.tmb"
   },
   {
    "name": "player.dxt.toc",
    "size": 1580,
    "path": "texdb/player/player.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player~player.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.player.dxt.toc"
   },
   {
    "name": "player.pvr.dat",
    "size": 6569414,
    "path": "texdb/player/player.pvr.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player~player.pvr.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.player.pvr.dat"
   },
   {
    "name": "player.pvr.tmb",
    "size": 6940,
    "path": "texdb/player/player.pvr.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player~player.pvr.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.player.pvr.tmb"
   },
   {
    "name": "player.pvr.toc",
    "size": 1580,
    "path": "texdb/player/player.pvr.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player~player.pvr.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.player.pvr.toc"
   },
   {
    "name": "player.txt",
    "size": 27810,
    "path": "texdb/player/player.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~player~player.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.player.player.txt"
   },
   {
    "name": "playerhi.pvr.dat",
    "size": 27658902,
    "path": "texdb/playerhi/playerhi.pvr.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~playerhi~playerhi.pvr.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.playerhi.playerhi.pvr.dat"
   },
   {
    "name": "playerhi.pvr.tmb",
    "size": 6940,
    "path": "texdb/playerhi/playerhi.pvr.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~playerhi~playerhi.pvr.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.playerhi.playerhi.pvr.tmb"
   },
   {
    "name": "playerhi.pvr.toc",
    "size": 1580,
    "path": "texdb/playerhi/playerhi.pvr.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~playerhi~playerhi.pvr.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.playerhi.playerhi.pvr.toc"
   },
   {
    "name": "playerhi.txt",
    "size": 28091,
    "path": "texdb/playerhi/playerhi.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~playerhi~playerhi.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.playerhi.playerhi.txt"
   },
   {
    "name": "samp.img",
    "size": 35268608,
    "path": "texdb/samp.img",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~samp.img"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.samp.img"
   },
   {
    "name": "samp.dxt.dat",
    "size": 16948900,
    "path": "texdb/samp/samp.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~samp~samp.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.samp.samp.dxt.dat"
   },
   {
    "name": "samp.dxt.tmb",
    "size": 1888,
    "path": "texdb/samp/samp.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~samp~samp.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.samp.samp.dxt.tmb"
   },
   {
    "name": "samp.dxt.toc",
    "size": 56,
    "path": "texdb/samp/samp.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~samp~samp.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.samp.samp.dxt.toc"
   },
   {
    "name": "samp.txt",
    "size": 883,
    "path": "texdb/samp/samp.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~samp~samp.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.samp.samp.txt"
   },
   {
    "name": "txd.dxt.dat",
    "size": 55720154,
    "path": "texdb/txd/txd.dxt.dat",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~txd~txd.dxt.dat"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.txd.txd.dxt.dat"
   },
   {
    "name": "txd.dxt.tmb",
    "size": 146388,
    "path": "texdb/txd/txd.dxt.tmb",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~txd~txd.dxt.tmb"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.txd.txd.dxt.tmb"
   },
   {
    "name": "txd.dxt.toc",
    "size": 2936,
    "path": "texdb/txd/txd.dxt.toc",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~txd~txd.dxt.toc"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.txd.txd.dxt.toc"
   },
   {
    "name": "txd.txt",
    "size": 50862,
    "path": "texdb/txd/txd.txt",
-   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb~txd~txd.txt"
+   "url": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-2.10/texdb.txd.txd.txt"
   }
  ]
 }
