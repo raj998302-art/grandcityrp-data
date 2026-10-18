@@ -2,7 +2,7 @@
  "client_config": {
   "version_code": 12,
   "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.10.apk",
-  "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data/GCRP-Brilliant-Data.zip",
-  "data_version": "brilliant-v1"
+  "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data/GCRP-Brilliant-Data-v2.zip",
+  "data_version": "brilliant-v2"
  }
 }
