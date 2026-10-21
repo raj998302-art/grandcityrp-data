@@ -4,6 +4,7 @@
   "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.22-test.apk",
   "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data/GCRP-Brilliant-Data-v4.zip",
   "data_version": "brilliant-v4",
-  "auth_bypass": true
+  "auth_bypass": true,
+  "bridge_secret": "GcRP_7mQ2vX9kL4pR8sT3wN6yH1aB5dZ"
  }
 }
