@@ -1,9 +1,9 @@
 {
  "client_config": {
-  "version_code": 15,
+  "version_code": 16,
   "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.13.apk",
-  "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-v5/GCRP-Brilliant-Data-v5-HD.zip",
-  "data_version": "brilliant-v5-hd",
+  "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data-v6/GCRP-Brilliant-Data-v6-UltraHD.zip",
+  "data_version": "brilliant-v6-ultrahd",
   "api_base": "https://gcrp-auth.vercel.app"
  }
 }
