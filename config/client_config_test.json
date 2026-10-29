@@ -1,7 +1,7 @@
 {
  "client_config": {
-  "version_code": 41,
-  "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.40-test.apk",
+  "version_code": 42,
+  "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.41-test.apk",
   "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data/GCRP-Brilliant-Data-v3.zip",
   "data_version": "brilliant-v3",
   "auth_bypass": true,
