@@ -1,0 +1,1315 @@
+{
+ "skins": [
+  {
+   "org": "YPD",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 1,
+   "model": "gcx01",
+   "txd": "gct01",
+   "dff_src": "janitor.dff",
+   "txd_src": "janitor.txd",
+   "textures": [
+    "gc01_t0",
+    "gc01_t1",
+    "gc01_t2",
+    "gc01_t3",
+    "gc01_t4",
+    "gc01_t5",
+    "gc01_t6",
+    "gc01_t7",
+    "gc01_t10",
+    "gc01_t11",
+    "gc01_t8",
+    "gc01_t9"
+   ]
+  },
+  {
+   "org": "YPD",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 2,
+   "model": "gcx02",
+   "txd": "gct02",
+   "dff_src": "MalePolice1.dff",
+   "txd_src": "MalePolice1V4.txd",
+   "textures": [
+    "gc02_t1",
+    "gc02_t2",
+    "gc02_t4",
+    "gc02_t6",
+    "gc02_t7",
+    "gc02_t8",
+    "gc02_t3",
+    "gc02_t5",
+    "gc02_t0"
+   ]
+  },
+  {
+   "org": "YPD",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 3,
+   "model": "gcx03",
+   "txd": "gct03",
+   "dff_src": "fsb_polk.dff",
+   "txd_src": "fsb_polk.txd",
+   "textures": [
+    "gc03_t0",
+    "gc03_t2",
+    "gc03_t5",
+    "gc03_t7",
+    "gc03_t9",
+    "gc03_t4",
+    "gc03_t1",
+    "gc03_t6",
+    "gc03_t3",
+    "gc03_t8"
+   ]
+  },
+  {
+   "org": "YPD",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 65,
+   "model": "gcx04",
+   "txd": "gct04",
+   "dff_src": "dff_00000008_PI7.dff",
+   "txd_src": "txd_00635534_accs.txd",
+   "textures": [
+    "gc04_t0",
+    "gc04_t1",
+    "gc04_t2",
+    "gc04_t4",
+    "gc04_t5",
+    "gc04_t3"
+   ]
+  },
+  {
+   "org": "YPD",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 10,
+   "model": "gcx05",
+   "txd": "gct05",
+   "dff_src": "dff_00000008_x.dff",
+   "txd_src": "txd_01669380_mrandres5555.txd",
+   "textures": [
+    "gc05_t0",
+    "gc05_t1",
+    "gc05_t2",
+    "gc05_t3",
+    "gc05_t5",
+    "gc05_t6",
+    "gc05_t7",
+    "gc05_t4"
+   ]
+  },
+  {
+   "org": "YPD",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 12,
+   "model": "gcx06",
+   "txd": "gct06",
+   "dff_src": "FemalePolice1.dff",
+   "txd_src": "FemalePolice1V4.txd",
+   "textures": [
+    "gc06_t0",
+    "gc06_t1",
+    "gc06_t3",
+    "gc06_t4",
+    "gc06_t6",
+    "gc06_t7",
+    "gc06_t8",
+    "gc06_t2",
+    "gc06_t5"
+   ]
+  },
+  {
+   "org": "YH",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 4,
+   "model": "gcx07",
+   "txd": "gct07",
+   "dff_src": "01_-_Import_to_skin.img_mandoc.dff",
+   "txd_src": "01_-_Import_to_skin.img_mandoc.txd",
+   "textures": [
+    "gc07_t2",
+    "gc07_t0",
+    "gc07_t1"
+   ]
+  },
+  {
+   "org": "YH",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 5,
+   "model": "gcx08",
+   "txd": "gct08",
+   "dff_src": "01_-_Import_to_gta3.img_wmosci.dff",
+   "txd_src": "01_-_Import_to_gta3.img_wmosci.txd",
+   "textures": [
+    "gc08_t0",
+    "gc08_t2",
+    "gc08_t3",
+    "gc08_t4",
+    "gc08_t7",
+    "gc08_t8",
+    "gc08_t1",
+    "gc08_t5",
+    "gc08_t6"
+   ]
+  },
+  {
+   "org": "YH",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 6,
+   "model": "gcx09",
+   "txd": "gct09",
+   "dff_src": "dff_00000008_x.dff",
+   "txd_src": "txd_00067638_wmosci.txd",
+   "textures": [
+    "gc09_t0"
+   ]
+  },
+  {
+   "org": "YH",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 31,
+   "model": "gcx10",
+   "txd": "gct10",
+   "dff_src": "149481-fear-2-doctors-v.2-gtasa_To_import_to_gta3.img_bmost.dff",
+   "txd_src": "149481-fear-2-doctors-v.2-gtasa_To_import_to_gta3.img_bmost.txd",
+   "textures": [
+    "gc10_t0",
+    "gc10_t1",
+    "gc10_t2",
+    "gc10_t3"
+   ]
+  },
+  {
+   "org": "YH",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 39,
+   "model": "gcx11",
+   "txd": "gct11",
+   "dff_src": "MarieRVWellness.dff",
+   "txd_src": "MarieRVWellness.txd",
+   "textures": [
+    "gc11_t0",
+    "gc11_t1",
+    "gc11_t2",
+    "gc11_t3",
+    "gc11_t6",
+    "gc11_t11",
+    "gc11_t12",
+    "gc11_t5",
+    "gc11_t13",
+    "gc11_t4",
+    "gc11_t9",
+    "gc11_t10",
+    "gc11_t7",
+    "gc11_t8"
+   ]
+  },
+  {
+   "org": "YH",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 40,
+   "model": "gcx12",
+   "txd": "gct12",
+   "dff_src": "EliseVWellness.dff",
+   "txd_src": "EliseVWellness.txd",
+   "textures": [
+    "gc12_t0",
+    "gc12_t1",
+    "gc12_t2",
+    "gc12_t3",
+    "gc12_t6",
+    "gc12_t10",
+    "gc12_t5",
+    "gc12_t11",
+    "gc12_t4",
+    "gc12_t9",
+    "gc12_t7",
+    "gc12_t8"
+   ]
+  },
+  {
+   "org": "GOV",
+   "gender": "m",
+   "ranks": [
+    1,
+    2
+   ],
+   "skin_id": 8,
+   "model": "gcx13",
+   "txd": "gct13",
+   "dff_src": "skin112.dff",
+   "txd_src": "skin112.txd",
+   "textures": [
+    "gc13_t0",
+    "gc13_t3",
+    "gc13_t6",
+    "gc13_t2",
+    "gc13_t1",
+    "gc13_t4",
+    "gc13_t5",
+    "gc13_t8",
+    "gc13_t7"
+   ]
+  },
+  {
+   "org": "GOV",
+   "gender": "m",
+   "ranks": [
+    3,
+    4
+   ],
+   "skin_id": 42,
+   "model": "gcx14",
+   "txd": "gct14",
+   "dff_src": "skin66.dff",
+   "txd_src": "skin66.txd",
+   "textures": [
+    "gc14_t0",
+    "gc14_t3",
+    "gc14_t4",
+    "gc14_t5",
+    "gc14_t1",
+    "gc14_t6",
+    "gc14_t2"
+   ]
+  },
+  {
+   "org": "GOV",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 86,
+   "model": "gcx15",
+   "txd": "gct15",
+   "dff_src": "skin121.dff",
+   "txd_src": "skin121.txd",
+   "textures": [
+    "gc15_t0",
+    "gc15_t2",
+    "gc15_t4",
+    "gc15_t7",
+    "gc15_t1",
+    "gc15_t3",
+    "gc15_t5",
+    "gc15_t6",
+    "gc15_t8"
+   ]
+  },
+  {
+   "org": "GOV",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 149,
+   "model": "gcx16",
+   "txd": "gct16",
+   "dff_src": "91361-gta-sa-league-of-gentlemen-gtasa_To_import_to_skin.img_vasya.dff",
+   "txd_src": "91361-gta-sa-league-of-gentlemen-gtasa_To_import_to_skin.img_vasya.txd",
+   "textures": [
+    "gc16_t0",
+    "gc16_t1",
+    "gc16_t2"
+   ]
+  },
+  {
+   "org": "GOV",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 41,
+   "model": "gcx17",
+   "txd": "gct17",
+   "dff_src": "Black_suit_black_glasses.dff",
+   "txd_src": "Black_suit_black_glasses.txd",
+   "textures": [
+    "gc17_t6",
+    "gc17_t0",
+    "gc17_t2",
+    "gc17_t3",
+    "gc17_t4",
+    "gc17_t5",
+    "gc17_t8",
+    "gc17_t1",
+    "gc17_t7"
+   ]
+  },
+  {
+   "org": "GOV",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 53,
+   "model": "gcx18",
+   "txd": "gct18",
+   "dff_src": "random.dff",
+   "txd_src": "random.txd",
+   "textures": [
+    "gc18_t6",
+    "gc18_t0",
+    "gc18_t1",
+    "gc18_t2",
+    "gc18_t3",
+    "gc18_t4",
+    "gc18_t5",
+    "gc18_t7",
+    "gc18_t8",
+    "gc18_t9"
+   ]
+  },
+  {
+   "org": "GOV",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 55,
+   "model": "gcx19",
+   "txd": "gct19",
+   "dff_src": "wfybu.dff",
+   "txd_src": "wfybu.txd",
+   "textures": [
+    "gc19_t1",
+    "gc19_t2",
+    "gc19_t3",
+    "gc19_t4",
+    "gc19_t0",
+    "gc19_t5"
+   ]
+  },
+  {
+   "org": "MIL",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 208,
+   "model": "gcx20",
+   "txd": "gct20",
+   "dff_src": "byShirouZMilitary.dff",
+   "txd_src": "byShirouZMilitary.txd",
+   "textures": [
+    "gc20_t0",
+    "gc20_t3",
+    "gc20_t5",
+    "gc20_t6",
+    "gc20_t7",
+    "gc20_t4",
+    "gc20_t1",
+    "gc20_t2",
+    "gc20_t8"
+   ]
+  },
+  {
+   "org": "MIL",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 273,
+   "model": "gcx21",
+   "txd": "gct21",
+   "dff_src": "dff_03154912_NWn4.dff",
+   "txd_src": "txd_00000008_Beret_01_RSA_D.txd",
+   "textures": [
+    "gc21_t1",
+    "gc21_t3",
+    "gc21_t4",
+    "gc21_t5",
+    "gc21_t2",
+    "gc21_t0"
+   ]
+  },
+  {
+   "org": "MIL",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 14,
+   "model": "gcx22",
+   "txd": "gct22",
+   "dff_src": "dff_03154912_NWn4.dff",
+   "txd_src": "txd_00000008_RSA_Helmet_01_D.txd",
+   "textures": [
+    "gc22_t1",
+    "gc22_t3",
+    "gc22_t2",
+    "gc22_t0"
+   ]
+  },
+  {
+   "org": "MIL",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 56,
+   "model": "gcx23",
+   "txd": "gct23",
+   "dff_src": "army.dff",
+   "txd_src": "army.txd",
+   "textures": [
+    "gc23_t0",
+    "gc23_t1",
+    "gc23_t4",
+    "gc23_t2",
+    "gc23_t3"
+   ]
+  },
+  {
+   "org": "MIL",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 87,
+   "model": "gcx24",
+   "txd": "gct24",
+   "dff_src": "byShirouZMilitary.dff",
+   "txd_src": "byShirouZMilitary.txd",
+   "textures": [
+    "gc24_t0",
+    "gc24_t1",
+    "gc24_t2",
+    "gc24_t3",
+    "gc24_t4",
+    "gc24_t9",
+    "gc24_t10",
+    "gc24_t11",
+    "gc24_t13",
+    "gc24_t14",
+    "gc24_t5",
+    "gc24_t6",
+    "gc24_t7",
+    "gc24_t8",
+    "gc24_t12"
+   ]
+  },
+  {
+   "org": "MIL",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 141,
+   "model": "gcx25",
+   "txd": "gct25",
+   "dff_src": "gungrl3.dff",
+   "txd_src": "gungrl3.txd",
+   "textures": [
+    "gc25_t2",
+    "gc25_t3",
+    "gc25_t4",
+    "gc25_t7",
+    "gc25_t12",
+    "gc25_t0",
+    "gc25_t1",
+    "gc25_t6",
+    "gc25_t9",
+    "gc25_t11",
+    "gc25_t8",
+    "gc25_t5",
+    "gc25_t10"
+   ]
+  },
+  {
+   "org": "NEWS",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 15,
+   "model": "gcx26",
+   "txd": "gct26",
+   "dff_src": "dff_00000008_x.dff",
+   "txd_src": "txd_00576880_baskByAnRi.txd",
+   "textures": [
+    "gc26_t0",
+    "gc26_t3",
+    "gc26_t4",
+    "gc26_t5",
+    "gc26_t6",
+    "gc26_t7",
+    "gc26_t2",
+    "gc26_t1"
+   ]
+  },
+  {
+   "org": "NEWS",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 18,
+   "model": "gcx27",
+   "txd": "gct27",
+   "dff_src": "dff_00000008_reporter.dff",
+   "txd_src": "txd_00500293_Mods.txd",
+   "textures": [
+    "gc27_t0",
+    "gc27_t1",
+    "gc27_t2"
+   ]
+  },
+  {
+   "org": "NEWS",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 22,
+   "model": "gcx28",
+   "txd": "gct28",
+   "dff_src": "swmycr.dff",
+   "txd_src": "swmycr.txd",
+   "textures": [
+    "gc28_t0",
+    "gc28_t1",
+    "gc28_t2",
+    "gc28_t4",
+    "gc28_t3"
+   ]
+  },
+  {
+   "org": "NEWS",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 172,
+   "model": "gcx29",
+   "txd": "gct29",
+   "dff_src": "wfyclot.dff",
+   "txd_src": "wfyclot.txd",
+   "textures": [
+    "gc29_t0",
+    "gc29_t1",
+    "gc29_t2",
+    "gc29_t3",
+    "gc29_t4",
+    "gc29_t5",
+    "gc29_t6"
+   ]
+  },
+  {
+   "org": "NEWS",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 190,
+   "model": "gcx30",
+   "txd": "gct30",
+   "dff_src": "dff_00000008_x.dff",
+   "txd_src": "txd_00091979_hfyri.txd",
+   "textures": [
+    "gc30_t0",
+    "gc30_t1",
+    "gc30_t2"
+   ]
+  },
+  {
+   "org": "NEWS",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 191,
+   "model": "gcx31",
+   "txd": "gct31",
+   "dff_src": "dff_00000008_x.dff",
+   "txd_src": "txd_00095830_copgrl3.txd",
+   "textures": [
+    "gc31_t0",
+    "gc31_t1",
+    "gc31_t2"
+   ]
+  },
+  {
+   "org": "SIA",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 24,
+   "model": "gcx32",
+   "txd": "gct32",
+   "dff_src": "fsb_1.dff",
+   "txd_src": "fsb_1.txd",
+   "textures": [
+    "gc32_t0",
+    "gc32_t1",
+    "gc32_t2",
+    "gc32_t3",
+    "gc32_t4"
+   ]
+  },
+  {
+   "org": "SIA",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 25,
+   "model": "gcx33",
+   "txd": "gct33",
+   "dff_src": "fsb_3.dff",
+   "txd_src": "fsb_3.txd",
+   "textures": [
+    "gc33_t0",
+    "gc33_t1",
+    "gc33_t2",
+    "gc33_t3",
+    "gc33_t4",
+    "gc33_t5",
+    "gc33_t6",
+    "gc33_t7"
+   ]
+  },
+  {
+   "org": "SIA",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 32,
+   "model": "gcx34",
+   "txd": "gct34",
+   "dff_src": "fsb_gen.dff",
+   "txd_src": "fsb_gen.txd",
+   "textures": [
+    "gc34_t0",
+    "gc34_t2",
+    "gc34_t5",
+    "gc34_t6",
+    "gc34_t4",
+    "gc34_t1",
+    "gc34_t7",
+    "gc34_t3"
+   ]
+  },
+  {
+   "org": "SIA",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 195,
+   "model": "gcx35",
+   "txd": "gct35",
+   "dff_src": "dff_00000008_x.dff",
+   "txd_src": "txd_03190384_CABELO.txd",
+   "textures": []
+  },
+  {
+   "org": "SIA",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 197,
+   "model": "gcx36",
+   "txd": "gct36",
+   "dff_src": "dff_00000008_nc9j.dff",
+   "txd_src": "txd_02599896_accs_diff_000_b_uni.txd",
+   "textures": [
+    "gc36_t0",
+    "gc36_t1",
+    "gc36_t2",
+    "gc36_t3",
+    "gc36_t4",
+    "gc36_t5",
+    "gc36_t7",
+    "gc36_t6",
+    "gc36_t8"
+   ]
+  },
+  {
+   "org": "SIA",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 211,
+   "model": "gcx37",
+   "txd": "gct37",
+   "dff_src": "dff_00000008_v9h.dff",
+   "txd_src": "txd_04844643_taurus.txd",
+   "textures": [
+    "gc37_t2",
+    "gc37_t3",
+    "gc37_t5",
+    "gc37_t7",
+    "gc37_t8",
+    "gc37_t10",
+    "gc37_t11",
+    "gc37_t1",
+    "gc37_t14",
+    "gc37_t0",
+    "gc37_t4",
+    "gc37_t9",
+    "gc37_t12",
+    "gc37_t13",
+    "gc37_t6"
+   ]
+  },
+  {
+   "org": "VEGA",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 33,
+   "model": "gcx38",
+   "txd": "gct38",
+   "dff_src": "turquia2.dff",
+   "txd_src": "turquia2.txd",
+   "textures": []
+  },
+  {
+   "org": "VEGA",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 35,
+   "model": "gcx39",
+   "txd": "gct39",
+   "dff_src": "turquia3.dff",
+   "txd_src": "turquia3.txd",
+   "textures": []
+  },
+  {
+   "org": "VEGA",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 37,
+   "model": "gcx40",
+   "txd": "gct40",
+   "dff_src": "turquia1.dff",
+   "txd_src": "turquia1.txd",
+   "textures": []
+  },
+  {
+   "org": "VEGA",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 216,
+   "model": "gcx41",
+   "txd": "gct41",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": []
+  },
+  {
+   "org": "VEGA",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 219,
+   "model": "gcx42",
+   "txd": "gct42",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": []
+  },
+  {
+   "org": "VEGA",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 224,
+   "model": "gcx43",
+   "txd": "gct43",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": []
+  },
+  {
+   "org": "ARGON",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 44,
+   "model": "gcx44",
+   "txd": "gct44",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc44_t0",
+    "gc44_t1",
+    "gc44_t6",
+    "gc44_t7",
+    "gc44_t4",
+    "gc44_t2",
+    "gc44_t3",
+    "gc44_t5"
+   ]
+  },
+  {
+   "org": "ARGON",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 45,
+   "model": "gcx45",
+   "txd": "gct45",
+   "dff_src": "bybeyby.dff",
+   "txd_src": "bybeyby.txd",
+   "textures": [
+    "gc45_t2",
+    "gc45_t0",
+    "gc45_t1",
+    "gc45_t3",
+    "gc45_t4",
+    "gc45_t5"
+   ]
+  },
+  {
+   "org": "ARGON",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 49,
+   "model": "gcx46",
+   "txd": "gct46",
+   "dff_src": "byShirouZFranca4.dff",
+   "txd_src": "byShirouZFranca4.txd",
+   "textures": []
+  },
+  {
+   "org": "ARGON",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 226,
+   "model": "gcx47",
+   "txd": "gct47",
+   "dff_src": "byShirouZ2.dff",
+   "txd_src": "byShirouZ2.txd",
+   "textures": []
+  },
+  {
+   "org": "ARGON",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 84,
+   "model": "gcx48",
+   "txd": "gct48",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": []
+  },
+  {
+   "org": "ARGON",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 82,
+   "model": "gcx49",
+   "txd": "gct49",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc49_t0",
+    "gc49_t1",
+    "gc49_t7",
+    "gc49_t8",
+    "gc49_t9",
+    "gc49_t15",
+    "gc49_t4",
+    "gc49_t13",
+    "gc49_t16",
+    "gc49_t6",
+    "gc49_t10",
+    "gc49_t11",
+    "gc49_t12",
+    "gc49_t14",
+    "gc49_t2",
+    "gc49_t5",
+    "gc49_t3"
+   ]
+  },
+  {
+   "org": "DRAGO",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 51,
+   "model": "gcx50",
+   "txd": "gct50",
+   "dff_src": "ByCoringa.dff",
+   "txd_src": "ByCoringa.txd",
+   "textures": []
+  },
+  {
+   "org": "DRAGO",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 52,
+   "model": "gcx51",
+   "txd": "gct51",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc51_t1",
+    "gc51_t3",
+    "gc51_t5",
+    "gc51_t6",
+    "gc51_t7",
+    "gc51_t4",
+    "gc51_t0",
+    "gc51_t2"
+   ]
+  },
+  {
+   "org": "DRAGO",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 58,
+   "model": "gcx52",
+   "txd": "gct52",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc52_t0",
+    "gc52_t1",
+    "gc52_t4",
+    "gc52_t5",
+    "gc52_t6",
+    "gc52_t2",
+    "gc52_t7",
+    "gc52_t3"
+   ]
+  },
+  {
+   "org": "DRAGO",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 23,
+   "model": "gcx53",
+   "txd": "gct53",
+   "dff_src": "byShirouZ2.dff",
+   "txd_src": "byShirouZ2.txd",
+   "textures": [
+    "gc53_t0",
+    "gc53_t2",
+    "gc53_t3",
+    "gc53_t6",
+    "gc53_t8",
+    "gc53_t10",
+    "gc53_t7",
+    "gc53_t9",
+    "gc53_t11",
+    "gc53_t4",
+    "gc53_t5",
+    "gc53_t1"
+   ]
+  },
+  {
+   "org": "DRAGO",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 95,
+   "model": "gcx54",
+   "txd": "gct54",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc54_t0",
+    "gc54_t6",
+    "gc54_t9",
+    "gc54_t11",
+    "gc54_t8",
+    "gc54_t5",
+    "gc54_t2",
+    "gc54_t3",
+    "gc54_t7",
+    "gc54_t10",
+    "gc54_t4",
+    "gc54_t1"
+   ]
+  },
+  {
+   "org": "DRAGO",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 96,
+   "model": "gcx55",
+   "txd": "gct55",
+   "dff_src": "pandora.dff",
+   "txd_src": "pandora.txd",
+   "textures": [
+    "gc55_t1",
+    "gc55_t2",
+    "gc55_t3",
+    "gc55_t9",
+    "gc55_t8",
+    "gc55_t4",
+    "gc55_t6",
+    "gc55_t7",
+    "gc55_t0",
+    "gc55_t5",
+    "gc55_t10",
+    "gc55_t11"
+   ]
+  },
+  {
+   "org": "GROM",
+   "gender": "m",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 59,
+   "model": "gcx56",
+   "txd": "gct56",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": []
+  },
+  {
+   "org": "GROM",
+   "gender": "m",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 61,
+   "model": "gcx57",
+   "txd": "gct57",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc57_t0",
+    "gc57_t2",
+    "gc57_t3",
+    "gc57_t5",
+    "gc57_t7",
+    "gc57_t1",
+    "gc57_t6",
+    "gc57_t4"
+   ]
+  },
+  {
+   "org": "GROM",
+   "gender": "m",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 62,
+   "model": "gcx58",
+   "txd": "gct58",
+   "dff_src": "byShirouZ2.dff",
+   "txd_src": "byShirouZ2.txd",
+   "textures": []
+  },
+  {
+   "org": "GROM",
+   "gender": "f",
+   "ranks": [
+    1,
+    4
+   ],
+   "skin_id": 97,
+   "model": "gcx59",
+   "txd": "gct59",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc59_t0",
+    "gc59_t3",
+    "gc59_t5",
+    "gc59_t6",
+    "gc59_t7",
+    "gc59_t15",
+    "gc59_t2",
+    "gc59_t16",
+    "gc59_t4",
+    "gc59_t9",
+    "gc59_t10",
+    "gc59_t11",
+    "gc59_t12",
+    "gc59_t13",
+    "gc59_t14",
+    "gc59_t1",
+    "gc59_t8",
+    "gc59_t17"
+   ]
+  },
+  {
+   "org": "GROM",
+   "gender": "f",
+   "ranks": [
+    5,
+    8
+   ],
+   "skin_id": 101,
+   "model": "gcx60",
+   "txd": "gct60",
+   "dff_src": "byShirouZ.dff",
+   "txd_src": "byShirouZ.txd",
+   "textures": [
+    "gc60_t3",
+    "gc60_t10",
+    "gc60_t0",
+    "gc60_t11",
+    "gc60_t13",
+    "gc60_t15",
+    "gc60_t12",
+    "gc60_t1",
+    "gc60_t2",
+    "gc60_t4",
+    "gc60_t5",
+    "gc60_t6",
+    "gc60_t14",
+    "gc60_t8",
+    "gc60_t7",
+    "gc60_t9"
+   ]
+  },
+  {
+   "org": "GROM",
+   "gender": "f",
+   "ranks": [
+    9,
+    10
+   ],
+   "skin_id": 132,
+   "model": "gcx61",
+   "txd": "gct61",
+   "dff_src": "byShirouZ1.dff",
+   "txd_src": "byShirouZ1.txd",
+   "textures": []
+  }
+ ],
+ "problems": [],
+ "backfilled": [
+  "YPD_m_1-4: policepants_co2",
+  "NEWS_f_5-8: watchcroa",
+  "NEWS_f_5-8: watchcroa",
+  "DRAGO_f_9-10: kas_body_base",
+  "DRAGO_f_9-10: body_base",
+  "DRAGO_f_9-10: mila_body_base"
+ ]
+}

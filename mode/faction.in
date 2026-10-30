@@ -1,0 +1,107 @@
+// ==========================================================================
+// GCRP STATE FACTION SKINS — GCRP custom skins (data pack v4)
+// Custom models installed into samp.img + texdb (client-side).
+// These replace the listed STOCK skin ids — the mode just calls
+// SetPlayerSkin(playerid, GCRP_SKIN_...). Nothing else needed.
+// ==========================================================================
+
+// ---- faction ids
+#define GCRP_FACTION_YPD (1) // Yuzhny Police Department
+#define GCRP_FACTION_APD (2) // Arzamaz Police Department (shares YPD skins)
+#define GCRP_FACTION_YH (3) // Yuzhny Hospital
+#define GCRP_FACTION_AH (4) // Arzamaz Hospital (shares YH skins)
+#define GCRP_FACTION_GOV (5) // Government
+#define GCRP_FACTION_MIL (6) // Military
+#define GCRP_FACTION_NEWS (7) // News Network
+#define GCRP_FACTION_SIA (8) // Secret Intelligence Authority
+
+#define GCRP_SKIN_MALE   (1)
+#define GCRP_SKIN_FEMALE (2)
+
+// ---- Yuzhny Police Department
+#define GCRP_SKIN_YPD_FEMALE_R1_4              65
+#define GCRP_SKIN_YPD_FEMALE_R5_8              10
+#define GCRP_SKIN_YPD_FEMALE_R9_10             12
+#define GCRP_SKIN_YPD_MALE_R1_4                1
+#define GCRP_SKIN_YPD_MALE_R5_8                2
+#define GCRP_SKIN_YPD_MALE_R9_10               3
+
+// ---- Yuzhny Hospital
+#define GCRP_SKIN_YH_FEMALE_R1_4               31
+#define GCRP_SKIN_YH_FEMALE_R5_8               39
+#define GCRP_SKIN_YH_FEMALE_R9_10              40
+#define GCRP_SKIN_YH_MALE_R1_4                 4
+#define GCRP_SKIN_YH_MALE_R5_8                 5
+#define GCRP_SKIN_YH_MALE_R9_10                6
+
+// ---- Government
+#define GCRP_SKIN_GOV_FEMALE_R1_4              41
+#define GCRP_SKIN_GOV_FEMALE_R5_8              53
+#define GCRP_SKIN_GOV_FEMALE_R9_10             55
+#define GCRP_SKIN_GOV_MALE_R1_2                8
+#define GCRP_SKIN_GOV_MALE_R3_4                42
+#define GCRP_SKIN_GOV_MALE_R5_8                86
+#define GCRP_SKIN_GOV_MALE_R9_10               149
+
+// ---- Military
+#define GCRP_SKIN_MIL_FEMALE_R1_4              56
+#define GCRP_SKIN_MIL_FEMALE_R5_8              87
+#define GCRP_SKIN_MIL_FEMALE_R9_10             141
+#define GCRP_SKIN_MIL_MALE_R1_4                208
+#define GCRP_SKIN_MIL_MALE_R5_8                273
+#define GCRP_SKIN_MIL_MALE_R9_10               14
+
+// ---- News Network
+#define GCRP_SKIN_NEWS_FEMALE_R1_4             172
+#define GCRP_SKIN_NEWS_FEMALE_R5_8             190
+#define GCRP_SKIN_NEWS_FEMALE_R9_10            191
+#define GCRP_SKIN_NEWS_MALE_R1_4               15
+#define GCRP_SKIN_NEWS_MALE_R5_8               18
+#define GCRP_SKIN_NEWS_MALE_R9_10              22
+
+// ---- Secret Intelligence Authority
+#define GCRP_SKIN_SIA_FEMALE_R1_4              195
+#define GCRP_SKIN_SIA_FEMALE_R5_8              197
+#define GCRP_SKIN_SIA_FEMALE_R9_10             211
+#define GCRP_SKIN_SIA_MALE_R1_4                24
+#define GCRP_SKIN_SIA_MALE_R5_8                25
+#define GCRP_SKIN_SIA_MALE_R9_10               32
+
+// ---- lookup arrays [org][gender][tier]  (tier 0 = ranks 1-4, 1 = 5-8, 2 = 9-10)
+stock const g_GcrpFactionSkin[8][2][3] = {
+    {
+        {1, 2, 3},
+        {65, 10, 12},
+    },
+    {
+        {4, 5, 6},
+        {31, 39, 40},
+    },
+    {
+        {8, 42, 86, 149},
+        {41, 53, 55},
+    },
+    {
+        {208, 273, 14},
+        {56, 87, 141},
+    },
+    {
+        {15, 18, 22},
+        {172, 190, 191},
+    },
+    {
+        {24, 25, 32},
+        {195, 197, 211},
+    },
+};
+
+/**
+ * Skin id for a rank (1-10).
+ * Example: SetPlayerSkin(playerid, GCRP_FactionSkin(GCRP_FACTION_YPD, GCRP_SKIN_MALE, 5));
+ */
+stock GCRP_FactionSkin(org, gender, rank)
+{
+    new tier = (rank <= 4) ? 0 : ((rank <= 8) ? 1 : 2);
+    new g = (gender == GCRP_SKIN_FEMALE) ? 1 : 0;
+    return g_GcrpFactionSkin[org - 1][g][tier];
+}

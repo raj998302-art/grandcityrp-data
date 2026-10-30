@@ -1,0 +1,77 @@
+// ---- ocg ids (for GCRP_OcgSkin)
+#define GCRP_OCG_VEGA (1) // OCG Vega
+#define GCRP_OCG_ARGON (2) // OCG Argon
+#define GCRP_OCG_DRAGO (3) // OCG Drago
+#define GCRP_OCG_GROM (4) // OCG Grom
+#define GCRP_OCG_MALE   (1)
+#define GCRP_OCG_FEMALE (2)
+
+// ==========================================================================
+// GCRP OCG SKINS — GCRP custom skins (data pack v4)
+// Custom models installed into samp.img + texdb (client-side).
+// These replace the listed STOCK skin ids — the mode just calls
+// SetPlayerSkin(playerid, GCRP_SKIN_...). Nothing else needed.
+// ==========================================================================
+
+// ---- OCG Vega
+#define GCRP_SKIN_VEGA_FEMALE_R1_4             216
+#define GCRP_SKIN_VEGA_FEMALE_R5_8             219
+#define GCRP_SKIN_VEGA_FEMALE_R9_10            224
+#define GCRP_SKIN_VEGA_MALE_R1_4               33
+#define GCRP_SKIN_VEGA_MALE_R5_8               35
+#define GCRP_SKIN_VEGA_MALE_R9_10              37
+
+// ---- OCG Argon
+#define GCRP_SKIN_ARGON_FEMALE_R1_4            226
+#define GCRP_SKIN_ARGON_FEMALE_R5_8            84
+#define GCRP_SKIN_ARGON_FEMALE_R9_10           82
+#define GCRP_SKIN_ARGON_MALE_R1_4              44
+#define GCRP_SKIN_ARGON_MALE_R5_8              45
+#define GCRP_SKIN_ARGON_MALE_R9_10             49
+
+// ---- OCG Drago
+#define GCRP_SKIN_DRAGO_FEMALE_R1_4            23
+#define GCRP_SKIN_DRAGO_FEMALE_R5_8            95
+#define GCRP_SKIN_DRAGO_FEMALE_R9_10           96
+#define GCRP_SKIN_DRAGO_MALE_R1_4              51
+#define GCRP_SKIN_DRAGO_MALE_R5_8              52
+#define GCRP_SKIN_DRAGO_MALE_R9_10             58
+
+// ---- OCG Grom
+#define GCRP_SKIN_GROM_FEMALE_R1_4             97
+#define GCRP_SKIN_GROM_FEMALE_R5_8             101
+#define GCRP_SKIN_GROM_FEMALE_R9_10            132
+#define GCRP_SKIN_GROM_MALE_R1_4               59
+#define GCRP_SKIN_GROM_MALE_R5_8               61
+#define GCRP_SKIN_GROM_MALE_R9_10              62
+
+// ---- lookup arrays [org][gender][tier]  (tier 0 = ranks 1-4, 1 = 5-8, 2 = 9-10)
+stock const g_GcrpOcgSkin[4][2][3] = {
+    {
+        {33, 35, 37},
+        {216, 219, 224},
+    },
+    {
+        {44, 45, 49},
+        {226, 84, 82},
+    },
+    {
+        {51, 52, 58},
+        {23, 95, 96},
+    },
+    {
+        {59, 61, 62},
+        {97, 101, 132},
+    },
+};
+
+/**
+ * Skin id for a rank (1-10).
+ * Example: SetPlayerSkin(playerid, GCRP_FactionSkin(GCRP_FACTION_YPD, GCRP_SKIN_MALE, 5));
+ */
+stock GCRP_OcgSkin(org, gender, rank)
+{
+    new tier = (rank <= 4) ? 0 : ((rank <= 8) ? 1 : 2);
+    new g = (gender == 2) ? 1 : 0; // 1 = male, 2 = female
+    return g_GcrpOcgSkin[org - 1][g][tier];
+}
