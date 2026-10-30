@@ -774,7 +774,21 @@
    "txd": "gct35",
    "dff_src": "dff_00000008_x.dff",
    "txd_src": "txd_03190384_CABELO.txd",
-   "textures": []
+   "textures": [
+    "gc35_t6",
+    "gc35_t1",
+    "gc35_t0",
+    "gc35_t4",
+    "gc35_t5",
+    "gc35_t12",
+    "gc35_t2",
+    "gc35_t3",
+    "gc35_t7",
+    "gc35_t8",
+    "gc35_t9",
+    "gc35_t10",
+    "gc35_t11"
+   ]
   },
   {
    "org": "SIA",
@@ -842,7 +856,16 @@
    "txd": "gct38",
    "dff_src": "turquia2.dff",
    "txd_src": "turquia2.txd",
-   "textures": []
+   "textures": [
+    "gc38_t4",
+    "gc38_t6",
+    "gc38_t7",
+    "gc38_t2",
+    "gc38_t0",
+    "gc38_t5",
+    "gc38_t1",
+    "gc38_t3"
+   ]
   },
   {
    "org": "VEGA",
@@ -856,7 +879,16 @@
    "txd": "gct39",
    "dff_src": "turquia3.dff",
    "txd_src": "turquia3.txd",
-   "textures": []
+   "textures": [
+    "gc39_t5",
+    "gc39_t6",
+    "gc39_t7",
+    "gc39_t3",
+    "gc39_t0",
+    "gc39_t1",
+    "gc39_t2",
+    "gc39_t4"
+   ]
   },
   {
    "org": "VEGA",
@@ -870,7 +902,15 @@
    "txd": "gct40",
    "dff_src": "turquia1.dff",
    "txd_src": "turquia1.txd",
-   "textures": []
+   "textures": [
+    "gc40_t2",
+    "gc40_t3",
+    "gc40_t4",
+    "gc40_t6",
+    "gc40_t1",
+    "gc40_t0",
+    "gc40_t5"
+   ]
   },
   {
    "org": "VEGA",
@@ -884,7 +924,20 @@
    "txd": "gct41",
    "dff_src": "byShirouZ.dff",
    "txd_src": "byShirouZ.txd",
-   "textures": []
+   "textures": [
+    "gc41_t0",
+    "gc41_t2",
+    "gc41_t3",
+    "gc41_t4",
+    "gc41_t8",
+    "gc41_t5",
+    "gc41_t9",
+    "gc41_t1",
+    "gc41_t6",
+    "gc41_t7",
+    "gc41_t10",
+    "gc41_t11"
+   ]
   },
   {
    "org": "VEGA",
@@ -898,7 +951,29 @@
    "txd": "gct42",
    "dff_src": "byShirouZ.dff",
    "txd_src": "byShirouZ.txd",
-   "textures": []
+   "textures": [
+    "gc42_t0",
+    "gc42_t1",
+    "gc42_t3",
+    "gc42_t8",
+    "gc42_t13",
+    "gc42_t14",
+    "gc42_t16",
+    "gc42_t6",
+    "gc42_t7",
+    "gc42_t9",
+    "gc42_t11",
+    "gc42_t12",
+    "gc42_t15",
+    "gc42_t17",
+    "gc42_t19",
+    "gc42_t20",
+    "gc42_t4",
+    "gc42_t18",
+    "gc42_t2",
+    "gc42_t5",
+    "gc42_t10"
+   ]
   },
   {
    "org": "VEGA",
@@ -912,7 +987,20 @@
    "txd": "gct43",
    "dff_src": "byShirouZ.dff",
    "txd_src": "byShirouZ.txd",
-   "textures": []
+   "textures": [
+    "gc43_t2",
+    "gc43_t3",
+    "gc43_t11",
+    "gc43_t9",
+    "gc43_t7",
+    "gc43_t10",
+    "gc43_t0",
+    "gc43_t4",
+    "gc43_t5",
+    "gc43_t6",
+    "gc43_t1",
+    "gc43_t8"
+   ]
   },
   {
    "org": "ARGON",
@@ -970,7 +1058,16 @@
    "txd": "gct46",
    "dff_src": "byShirouZFranca4.dff",
    "txd_src": "byShirouZFranca4.txd",
-   "textures": []
+   "textures": [
+    "gc46_t2",
+    "gc46_t3",
+    "gc46_t5",
+    "gc46_t6",
+    "gc46_t7",
+    "gc46_t1",
+    "gc46_t4",
+    "gc46_t0"
+   ]
   },
   {
    "org": "ARGON",
@@ -984,7 +1081,25 @@
    "txd": "gct47",
    "dff_src": "byShirouZ2.dff",
    "txd_src": "byShirouZ2.txd",
-   "textures": []
+   "textures": [
+    "gc47_t2",
+    "gc47_t3",
+    "gc47_t4",
+    "gc47_t6",
+    "gc47_t7",
+    "gc47_t11",
+    "gc47_t13",
+    "gc47_t14",
+    "gc47_t15",
+    "gc47_t5",
+    "gc47_t12",
+    "gc47_t16",
+    "gc47_t0",
+    "gc47_t9",
+    "gc47_t1",
+    "gc47_t8",
+    "gc47_t10"
+   ]
   },
   {
    "org": "ARGON",
@@ -998,7 +1113,21 @@
    "txd": "gct48",
    "dff_src": "byShirouZ.dff",
    "txd_src": "byShirouZ.txd",
-   "textures": []
+   "textures": [
+    "gc48_t0",
+    "gc48_t1",
+    "gc48_t4",
+    "gc48_t5",
+    "gc48_t6",
+    "gc48_t9",
+    "gc48_t12",
+    "gc48_t11",
+    "gc48_t10",
+    "gc48_t2",
+    "gc48_t3",
+    "gc48_t8",
+    "gc48_t7"
+   ]
   },
   {
    "org": "ARGON",
@@ -1044,7 +1173,21 @@
    "txd": "gct50",
    "dff_src": "ByCoringa.dff",
    "txd_src": "ByCoringa.txd",
-   "textures": []
+   "textures": [
+    "gc50_t3",
+    "gc50_t6",
+    "gc50_t7",
+    "gc50_t11",
+    "gc50_t8",
+    "gc50_t0",
+    "gc50_t1",
+    "gc50_t2",
+    "gc50_t12",
+    "gc50_t4",
+    "gc50_t5",
+    "gc50_t9",
+    "gc50_t10"
+   ]
   },
   {
    "org": "DRAGO",
@@ -1185,7 +1328,16 @@
    "txd": "gct56",
    "dff_src": "byShirouZ.dff",
    "txd_src": "byShirouZ.txd",
-   "textures": []
+   "textures": [
+    "gc56_t0",
+    "gc56_t1",
+    "gc56_t2",
+    "gc56_t3",
+    "gc56_t4",
+    "gc56_t5",
+    "gc56_t6",
+    "gc56_t7"
+   ]
   },
   {
    "org": "GROM",
@@ -1222,7 +1374,16 @@
    "txd": "gct58",
    "dff_src": "byShirouZ2.dff",
    "txd_src": "byShirouZ2.txd",
-   "textures": []
+   "textures": [
+    "gc58_t2",
+    "gc58_t4",
+    "gc58_t6",
+    "gc58_t1",
+    "gc58_t3",
+    "gc58_t7",
+    "gc58_t0",
+    "gc58_t5"
+   ]
   },
   {
    "org": "GROM",
@@ -1300,7 +1461,22 @@
    "txd": "gct61",
    "dff_src": "byShirouZ1.dff",
    "txd_src": "byShirouZ1.txd",
-   "textures": []
+   "textures": [
+    "gc61_t1",
+    "gc61_t4",
+    "gc61_t8",
+    "gc61_t9",
+    "gc61_t6",
+    "gc61_t2",
+    "gc61_t3",
+    "gc61_t12",
+    "gc61_t10",
+    "gc61_t7",
+    "gc61_t13",
+    "gc61_t0",
+    "gc61_t5",
+    "gc61_t11"
+   ]
   }
  ],
  "problems": [],
@@ -1308,8 +1484,11 @@
   "YPD_m_1-4: policepants_co2",
   "NEWS_f_5-8: watchcroa",
   "NEWS_f_5-8: watchcroa",
+  "SIA_f_1-4: body_base",
+  "SIA_f_1-4: body_base",
   "DRAGO_f_9-10: kas_body_base",
   "DRAGO_f_9-10: body_base",
-  "DRAGO_f_9-10: mila_body_base"
+  "DRAGO_f_9-10: mila_body_base",
+  "GROM_m_1-4: Perna"
  ]
 }
