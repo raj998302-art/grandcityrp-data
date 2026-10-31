@@ -1,9 +1,9 @@
 {
   "client_config": {
-    "version_code": 44,
-    "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.43-test.apk",
-    "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data/GCRP-Data-v5.zip",
-    "data_version": "gcrp-v5",
+    "version_code": 45,
+    "url_launcher": "https://github.com/raj998302-art/grandcityrp-data/releases/download/app/GrandCityRP-Client-v2.0.44-test.apk",
+    "url_data_zip": "https://github.com/raj998302-art/grandcityrp-data/releases/download/data/GCRP-Data-v6.zip",
+    "data_version": "gcrp-v6",
     "auth_bypass": true,
     "api_base": "https://gcrp-auth.vercel.app"
   }
